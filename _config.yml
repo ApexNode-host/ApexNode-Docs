@@ -1,8 +1,13 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: ApexNode Wiki
+description: The wiki/knowledge for ApexNode.host services.
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://wiki.apexnode.host
+logo: https://apexnode.host/images/logo/apexnode_logo_black.png
+favicon: https://apexnode.host/favicon.ico
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  "Join our Discord": https://apexnode.host/Discord
+
+aux_links_new_tab: true
+color_scheme: dark
