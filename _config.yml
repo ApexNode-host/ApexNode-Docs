@@ -14,3 +14,8 @@ aux_links:
 
 aux_links_new_tab: true
 color_scheme: dark
+
+callouts:
+  warning:
+    title: warning
+    color: red
