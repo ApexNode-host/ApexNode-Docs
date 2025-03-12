@@ -28,4 +28,4 @@ This will take resources you enter from your main server and allocate them to th
 Now just wait for the new split game server to install and you're ready!
 
 From here it's up to you what to do, if you plan on hosting the same game then you're good to go. 
-If you plan on hosting a different game, then you can change the new split server to any game that we offer. You can use our guide on how to do that by [clicking here](panel/changegame).
+If you plan on hosting a different game, then you can change the new split server to any game that we offer. You can use our guide on how to do that by [clicking here](changegame).
