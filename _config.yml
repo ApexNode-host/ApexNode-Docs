@@ -7,6 +7,9 @@ logo: https://apexnode.host/images/logo/apexnode_logo.png
 favicon: https://apexnode.host/favicon.ico
 
 aux_links:
+  "Our Website": https://apexnode.host
+  "Game Panel": https://panel.apexnode.host
+  "Billing Portal": https://billing.apexnode.host
   "Join our Discord": https://apexnode.host/discord
 
 aux_links_new_tab: true
