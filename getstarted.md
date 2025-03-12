@@ -12,7 +12,7 @@ nav_order: 2
 
 Like many hosts, we have a list of games to choose from.
 | Game |
-|:- |
+|:--------------- |
 | Minecraft |
 | Project Zomboid |
 | PalWorld |
