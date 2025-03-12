@@ -18,7 +18,7 @@ You can change the active game server to any other game server that we offer qui
 
 We offer many games through our change game feature, many of which we may not provide priority support for. You may still switch to them at any point.
 
-{. warning}
+{: .warning}
 Some games may require more RAM or Storage than your active game server offers. Upgrading to a suitable plan may be required depending on the game you choose.
 
 ### (Optional) Step 5. Delete server files

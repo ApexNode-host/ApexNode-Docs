@@ -8,7 +8,7 @@ parent: panel
 
 You can split the active game server into multiple game servers that we offer quickly and easily from our game panel. Simply follow our steps below.
 
-{. highlight}
+{: .highlight}
 The server splitter feature is currently only available for our Extreme tiered game servers. As of 03/12/2025 Extreme plans are not available.
 
 ### Step 1. Login to our [game panel](https://panel.apexnode.host)
