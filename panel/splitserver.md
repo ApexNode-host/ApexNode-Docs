@@ -2,6 +2,7 @@
 title: Split Server
 layout: default
 parent: panel
+nav_order: 2
 ---
 
 # How to split your game server

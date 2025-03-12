@@ -2,6 +2,7 @@
 title: Change Game
 layout: default
 parent: panel
+nav_order: 1
 ---
 
 # How to change your game server
