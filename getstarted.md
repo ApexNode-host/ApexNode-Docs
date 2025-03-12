@@ -11,16 +11,17 @@ nav_order: 2
 ## Step 1. Choosing the game
 
 Like many hosts, we have a list of games to choose from.
-| Game |
+
+| Game            |
 |:--------------- |
-| Minecraft |
+| Minecraft       |
 | Project Zomboid |
-| PalWorld |
-| Terraria |
+| PalWorld        |
+| Terraria        |
 | BeamNg (BeamMP) |
-| Satisfactory |
-| Necesse |
-| Vintage Story |
+| Satisfactory    |
+| Necesse         |
+| Vintage Story   |
 
 {: .highlight}
 You can change the active game server to any other game server that we offer quickly and easily from our game panel. Learn more by [clicking here](panel/changegame).
