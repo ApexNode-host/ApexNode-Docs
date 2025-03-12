@@ -3,8 +3,8 @@ description: The wiki/knowledgebase for ApexNode.host services.
 theme: just-the-docs
 
 url: https://wiki.apexnode.host
-logo: https://apexnode.host/images/logo/apexnode_logo.png
-favicon: https://apexnode.host/favicon.ico
+logo: apexnode_logo.png
+favicon: favicon.ico
 
 aux_links:
   "Our Website": https://apexnode.host
