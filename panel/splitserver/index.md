@@ -1,7 +1,7 @@
 ---
 title: Split Server
 layout: default
-parent: panel
+parent: Game Panel
 nav_order: 2
 ---
 
