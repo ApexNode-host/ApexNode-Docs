@@ -14,8 +14,16 @@ aux_links:
 
 aux_links_new_tab: true
 color_scheme: dark
+back_to_top: true
+back_to_top_text: Back to top
 
 callouts:
   warning:
     title: warning
+    color: yellow
+  danger:
+    title: danger
     color: red
+  success:
+    title: success
+    color: green
