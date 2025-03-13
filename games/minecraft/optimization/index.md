@@ -1,7 +1,7 @@
 ---
 title: Minecraft Server Optimization
 layout: default
-parent: Minecraft Guides
+parent: Minecraft Server Guides
 ---
 
 # Minecraft Server Optimization

@@ -1,7 +1,7 @@
 ---
 title: Minecraft Server Plugins
 layout: default
-parent: Minecraft Guides
+parent: Minecraft Server Guides
 ---
 
 # Minecraft Server Plugin Installation Guide

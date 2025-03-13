@@ -1,7 +1,7 @@
 ---
 title: Minecraft Server Modding
 layout: default
-parent: Minecraft Guides
+parent: Minecraft Server Guides
 ---
 
 # Minecraft Server Modding Installation Guide

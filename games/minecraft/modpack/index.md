@@ -1,10 +1,18 @@
 ---
 title: Minecraft Server Modpacks
 layout: default
-parent: Minecraft Guides
+parent: Minecraft Server Guides
 ---
 
 # Minecraft Server Modpack Guides
+
+{: .warning}
+The following guide is intended for Minecraft servers running Forge, Fabric, and NeoForge. Vanilla Minecraft servers, Bedrock servers, and most other non-modded Minecraft servers won't be able to handle Minecraft server mods or modpacks.
+
+{: .success}
+We recommened modpacks from [Modrinth](https://modrinth.com/modpacks), or [CurseForge](https://www.curseforge.com/minecraft/modpacks). But we also offer various other modpack providers through our Modpack Installer on our game panel.
+
+Regardless of where you download modpacks from only download modpacks from authors and sources you trust. Downloading and installing modpacks from untrusted sources can lead to security vulnerabilities.
 
 You won't be needing to upload any modpack yourself, our game panel has a feature that allows you to simply select the modpack you want to install, and it will automatically download and install it for you.
 
@@ -39,6 +47,9 @@ Below is a step-by-step guide on how to install a Minecraft modpack on your serv
 9. Click the **Install Modpack** button and wait for the modpack to install.
 
 ### Manual Installation
+
+{: .warning}
+Installing modpacks from untrusted/unknown sources can lead to security vulnerabilities.
 
 1. Find the modpack you want to install.
 2. If the modpack has a server pack, download it.
