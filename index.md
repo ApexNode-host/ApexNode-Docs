@@ -10,17 +10,15 @@ Welcome to the official ApexNode Wiki/Knowledgebase—your go-to resource for ev
 
 **What You'll Find Here**
 
--   [Getting Started] – Learn how to set up your account, deploy a game server, and access your [control panel](https://panel.apexnode.host).
+-   [Getting Started](getstarted) – Learn how to set up your account, deploy a game server, and access your [control panel](https://panel.apexnode.host).
 
--   Game Panel Guides - Learn more about our game panel, how to [change games](panel/changegame), [split servers](panel/splitserver), and more!
+-   [Game Panel Guides](panel) - Learn more about our game panel, how to [change games](panel/changegame), [split servers](panel/splitserver), and more!
     
--   Game Server Guides – Step-by-step tutorials for configuring and optimizing servers for Minecraft, Project Zomboid, BeamMP, Terraria, Palworld, Vintage Story, and more.
+-   [Game Server Guides](games) – Step-by-step tutorials for configuring and optimizing servers for Minecraft, Project Zomboid, BeamMP, Terraria, Palworld, Vintage Story, and more.
     
--   Billing & Account Management – Understand how our [Billing Portal] works, manage subscriptions, and troubleshoot payment issues.
+-   [Billing & Account Management](billing) – Understand how our [Billing Portal] works, manage subscriptions, and troubleshoot payment issues.
     
--   Advanced Configurations – Modify game files, install plugins and mods, and fine-tune your server for the best performance and experience.
-    
--   Troubleshooting & FAQs – Find quick solutions to common problems and server errors.
+-   [Troubleshooting & FAQs](faq) – Find quick solutions to common problems and server errors.
 
 ## Why Choose ApexNode?
 
@@ -32,8 +30,7 @@ If you ever run into issues, feel free to check our guides or reach out to our s
 
 ----
 
+[Website]: https://apexnode.host
 [Official Discord]: https://apexnode.host/discord
 [Billing Portal]: https://billing.apexnode.host
-[Website]: https://apexnode.host
-[Getting Started]: getstarted
 [Game Panel]: https://panel.apexnode.host
