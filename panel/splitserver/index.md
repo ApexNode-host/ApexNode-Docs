@@ -7,6 +7,9 @@ nav_order: 2
 
 # How to split your game server
 
+Coming Soon
+{: .label .label-yellow}
+
 You can split the active game server into multiple game servers that we offer quickly and easily from our game panel. Simply follow our steps below.
 
 {: .highlight}
