@@ -26,7 +26,7 @@ At [ApexNode](https://apexnode.host), we provide high-performance game server ho
 
 ### Need Help?
 
-If you ever run into issues, feel free to check our guides or reach out to our support team via our [Official Discord] and to chat with other users and get real-time assistance.
+If you ever run into issues, feel free to check our guides or reach out to our support team via our [Official Discord] and to chat with other users and get real-time assistance. Otherwise you can reach out to our support team by filling out this [Contact Form](https://billing.apexnode.host/contact.php) and we will respond within 72 hours.
 
 ----
 
