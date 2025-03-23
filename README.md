@@ -1,6 +1,6 @@
-# Welcome to the ApexNode Wiki!
+# Welcome to the ApexNode Docs!
 
-Welcome to the official ApexNode Wiki/Knowledgebase—your go-to resource for everything related to our game hosting services. Whether you're a new customer or a long-time user, this wiki is designed to help you navigate our platform, configure your game servers, and troubleshoot common issues with ease.
+Welcome to the official ApexNode Documentation—your go-to resource for everything related to our game hosting services. Whether you're a new customer or a long-time user, these docs and guides are designed to help you navigate our platform, configure your game servers, and troubleshoot common issues with ease.
 
 **What You'll Find Here**
 
