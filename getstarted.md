@@ -27,7 +27,7 @@ Like many hosts, we have a list of games to choose from.
 You can change the active game server to any other game server that we offer quickly and easily from our game panel. Learn more by [clicking here](panel/changegame).
 
 From this list you may pick any game you want hosted from us.
-Additionally, we have many other games that we may host but we won't generally provide priority support for.
+Additionally, we have many other games that we may host but we won't generally provide priority support for. These games are typically noted with the tag **(No Support)** next to the game name.
 
 ## Step 2. Choose your plan
 
