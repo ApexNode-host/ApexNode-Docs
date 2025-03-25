@@ -25,5 +25,5 @@ callouts:
     title: danger
     color: red
   success:
-    title: success
+    title: info
     color: green
