@@ -22,6 +22,9 @@ Below is a step-by-step guide on how to install a Minecraft modpack on your serv
 
 ### Automatic Installation
 
+{: .warning}
+Some modpacks don't include a server pack by default. Installing the modpack will still work most of the time, but may result in the server crashing on startup due to detecting client-only mods that are trying to be loaded into the server. If this happens you can either look through the crash logs and delete the mods that are causing the issue. The alternative is to let us help you out, just join our [Discord server](https://apexnode.host/discord) and create a ticket in the #create-ticket channel.
+
 1. Login to our [game panel](https://panel.apexnode.host)
 2. Select your Minecraft server.
 3. In the side menu, click the **More** button.
