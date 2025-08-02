@@ -13,9 +13,11 @@ You can change the active game server to any other game server that we offer qui
 
 ### Step 2. Select the game server you'd like to change
 
-### Step 3. Click the "More" button in the menu and click "Change Game"
+### Step 3. Click the "Settings" tab
 
-### Step 4. Select the game server you'd like to change to
+### Step 4. In the Change Egg config section, click the drop down.
+
+### Step 5. Select the game you wish to change the server to and click Apply
 
 We offer many games through our change game feature, many of which we may not provide priority support for. You may still switch to them at any point.
 
@@ -24,8 +26,8 @@ Some games may require more RAM or Storage than your active game server offers. 
 
 ### (Optional) Step 5. Delete server files
 
-If you'd like to delete the server files for the game server you're changing from, click the "Delete Server Files" button. Warning, this option is irreversible.
+If you'd like to delete the server files for the game server you're changing from, click the "Wipe Server Files" button. Warning, this option is irreversible.
 
-### Step 6. Click the "Confirm" button
+### Step 6. Click the "Change Egg" button
 
 Now just wait for the game server to install the new game you've chosen and you're ready!
