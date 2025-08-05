@@ -94,10 +94,10 @@ To keep things efficient and clear, customers agree to:
 | Feature                          | Basic Management | Premium Management |
 |----------------------------------|---------------|------------------|---------------------|
 | Modpack/Plugin Setup             | ✅ (One-time)     | ✅ (Ongoing)        |
-| Crash Support                    | ❌               | ✅                 |
+| Crash Support                    | ✅ (Basic)        | ✅ (Full)           |
 | Performance Optimization         | ✅ (Basic)        | ✅ (Full)           |
 | File/Plugin Updates              | ❌               | ✅                 |
-| Support Response Time            | 48–72 hours      | <24 hours           |
+| Support Response Time            | 24-48 hours      | <24 hours           |
 | Monthly Maintenance              | ❌               | ✅ (on request)     |
 
 If you need further clarification, feel free to contact our support team or join our [Discord](https://apexnode.host/discord) for help.
