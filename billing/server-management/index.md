@@ -18,18 +18,7 @@ The Server Management Addon is designed for server owners who want a more hands-
 ## Tiers
 
 ### Self Managed (Free)
-You’re fully responsible for configuring, maintaining, and troubleshooting your server.
-
-**Includes:**
-- Full access to the game panel and file system
-- Community Discord support
-- Backup system (if available)
-- Automated tools (if applicable)
-
-**Does NOT include:**
-- Manual plugin/modpack installation
-- Server optimization or crash debugging
-- Troubleshooting assistance beyond generic tips
+You’re fully responsible for configuring, and maintaining your server.
 
 ---
 
