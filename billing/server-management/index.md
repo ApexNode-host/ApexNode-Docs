@@ -20,6 +20,8 @@ The Server Management Addon is designed for server owners who want a more hands-
 ### Self Managed (Free)
 You’re fully responsible for configuring, and maintaining your server.
 
+While we don’t set things up or optimize the server for you, we’ll assist with questions, errors, and general troubleshooting via our normal support channels (tickets or Discord).
+
 ---
 
 ### Basic Management ($25 / one-time setup fee)
@@ -89,13 +91,13 @@ To keep things efficient and clear, customers agree to:
 
 ## Summary
 
-| Feature                          | Self Managed | Basic Management | Premium Management |
+| Feature                          | Basic Management | Premium Management |
 |----------------------------------|---------------|------------------|---------------------|
-| Modpack/Plugin Setup             | ❌            | ✅ (One-time)     | ✅ (Ongoing)        |
-| Crash Support                    | ❌            | ❌               | ✅                 |
-| Performance Optimization         | ❌            | ✅ (Basic)        | ✅ (Full)           |
-| File/Plugin Updates              | ❌            | ❌               | ✅                 |
-| Support Response Time            | Community     | 48–72 hours      | <24 hours           |
-| Monthly Maintenance              | ❌            | ❌               | ✅ (on request)     |
+| Modpack/Plugin Setup             | ✅ (One-time)     | ✅ (Ongoing)        |
+| Crash Support                    | ❌               | ✅                 |
+| Performance Optimization         | ✅ (Basic)        | ✅ (Full)           |
+| File/Plugin Updates              | ❌               | ✅                 |
+| Support Response Time            | 48–72 hours      | <24 hours           |
+| Monthly Maintenance              | ❌               | ✅ (on request)     |
 
 If you need further clarification, feel free to contact our support team or join our [Discord](https://apexnode.host/discord) for help.
