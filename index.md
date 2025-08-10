@@ -17,7 +17,7 @@ Welcome to the official ApexNode Documentation—your go-to resource for everyth
 
 -   [Game Panel Guides](panel) - Learn more about our game panel, how to [change games](panel/changegame), [split servers](panel/splitserver), and more!
     
--   [Game Server Guides](games) – Step-by-step tutorials for configuring and optimizing servers for Minecraft, Project Zomboid, BeamMP, Terraria, Palworld, Vintage Story, and more.
+-   [Game Server Guides](games) – Step-by-step tutorials for configuring and optimizing servers for Minecraft, Project Zomboid, BeamNG, Terraria, Palworld, Vintage Story, and more.
     
 -   [Billing & Account Management](billing) – Understand how our [Billing Portal] works, manage subscriptions, learn more about addons, and troubleshoot payment issues.
     

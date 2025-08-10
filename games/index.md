@@ -7,7 +7,7 @@ has_children: true
 
 # Game Server Guides
 
-Find step-by-step guides on how to configure and optimize servers for Minecraft, Project Zomboid, BeamMP, Terraria, Palworld, Vintage Story, and more. Additionally you'll find guides on how to install mods and plugins for various supported games.
+Find step-by-step guides on how to configure and optimize servers for Minecraft, Project Zomboid, BeamNG (BeamMP), Terraria, Palworld, Vintage Story, and more. Additionally you'll find guides on how to install mods and plugins for various supported games.
 
 ### Minecraft Guides
 
@@ -21,10 +21,10 @@ Find step-by-step guides on how to configure and optimize servers for Minecraft,
 - [Project Zomboid Server Setup](projectzomboid)
 - [Project Zomboid Server Modding](projectzomboid/modding)
 
-### BeamMP Guides
+### BeamNG Guides
 
-- [BeamMP Server Setup](beammp)
-- [BeamMP Server Modding](beammp/modding)
+- [BeamNG Server Setup](beamng)
+- [BeamNG Server Modding](beamng/modding)
 
 ### Satisfactory Guides
 
