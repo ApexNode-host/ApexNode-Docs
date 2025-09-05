@@ -7,12 +7,12 @@ parent: Minecraft Server Guides
 # 📚 How to Use Subdomains for Your Minecraft Java Server
 
 {: .warning}
-Our subdomains are currently restricted to Minecraft Java servers.
+Our subdomains are currently restricted to **Minecraft Java** servers.
 Additionally our subdomains are currently limited to 1 subdomain per server.
 
 ## Creating a Subdomain
 
-1. Login to your ApexNode panel (https://panel.apexnode.host)
+1. Login to our [ApexNode Panel](https://panel.apexnode.host)
 2. Go to your Minecraft Java server.
 3. Click the Subdomains tab.
 4. Click the “Create Subdomain” button.
