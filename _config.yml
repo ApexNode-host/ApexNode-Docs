@@ -2,6 +2,9 @@ title: ApexNode Docs
 description: The documenation for ApexNode.host services.
 theme: just-the-docs
 
+gems:
+  - just-the-docs
+
 url: https://docs.apexnode.host
 logo: apexnode_logo.png
 favicon: favicon.ico
