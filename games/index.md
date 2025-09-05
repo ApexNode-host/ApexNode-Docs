@@ -15,6 +15,7 @@ Find step-by-step guides on how to configure and optimize servers for Minecraft,
 - [Minecraft Server Optimization](minecraft/optimization)
 - [Minecraft Server Modding](minecraft/modding)
 - [Minecraft Server Plugin Installation](minecraft/plugins)
+- [Minecraft Server Subdomain Manager](minecraft/subdomains)
 
 ### Project Zomboid Guides
 
