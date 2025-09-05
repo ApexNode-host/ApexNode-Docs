@@ -15,17 +15,8 @@ The Server Management Addon is designed for server owners who want a more hands-
 
 ---
 
-## Tiers
-
-### Self Managed (Free)
-You’re fully responsible for configuring, and maintaining your server.
-
-While we don’t set things up or optimize the server for you, we’ll assist with questions, errors, and general troubleshooting via our normal support channels (tickets or Discord).
-
----
-
 ### Basic Management ($25 / one-time setup fee)
-Recommended for users who need help **getting started** but plan to manage the server afterward.
+Recommended for users who need help or a boost for **getting started** but plan to manage the server afterward.
 
 **Includes:**
 - One-time setup of a modpack or custom plugin configuration
@@ -59,7 +50,7 @@ For those who want a **fully managed experience** — we handle setup, maintenan
 
 ## Use Cases
 
-- **Self Managed**: Great for developers or experienced server owners who prefer total control.
+- **Self Managed** (Free): Great for developers or experienced server owners who prefer total control.
 - **Basic Management**: Ideal for new server owners who need help with the initial setup but want to handle daily maintenance themselves.
 - **Premium Management**: Best for community leaders, creators, or streamers who want their server professionally managed and maintained.
 
