@@ -40,8 +40,8 @@ Some things to remember. The plan you choose adjusts the RAM, Storage, Backup Sl
 ----
 
 [Official Discord]: https://apexnode.host/discord
-[Billing Portal]: https://billing.apexnode.host
+[Billing Dashboard]: https://dash.apexnode.host
 [Website]: https://apexnode.host
 [Getting Started]: getstarted
 [Game Panel]: https://panel.apexnode.host
-[Client Service Area]: https://billing.apexnode.host/clientarea.php?action=services
+[Client Service Area]: https://dash.apexnode.host/dashboard
