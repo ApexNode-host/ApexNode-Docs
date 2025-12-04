@@ -13,6 +13,8 @@ parent: Billing Portal Guides
 
 The Server Management Addon is designed for server owners who want a more hands-off experience. Whether you're running a modded Minecraft server or a complex configuration for another game, our tiers of management give you flexibility and peace of mind.
 
+To be clear, we provide full support to any and all customers, regardless of if they have server management or not. Customer satisfaction is our number one priority and we work around the clock to ensure our servers and games run at top quality.
+
 ---
 
 ### Basic Management ($25 / one-time setup fee)
@@ -26,7 +28,6 @@ Recommended for users who need help or a boost for **getting started** but plan 
 
 **Requirements:**
 - All required files must be provided **in bulk** before setup begins.
-- Further changes or ongoing support are not included.
 
 ---
 
@@ -43,15 +44,14 @@ For those who want a **fully managed experience** — we handle setup, maintenan
 - Discord-based support with faster response times
 
 **Does NOT include:**
-- Development of custom plugins or mods
-- Constant monitoring for uptime (we are not a 24/7 NOC)
+- Constant monitoring for uptime or errors (we are not a 24/7 NOC)
 
 ---
 
 ## Use Cases
 
-- **Self Managed** (Free): Great for developers or experienced server owners who prefer total control.
-- **Basic Management**: Ideal for new server owners who need help with the initial setup but want to handle daily maintenance themselves.
+- **Self Managed** (Free): Great for developers or experienced server owners who prefer setting their own server up.
+- **Basic Management**: Ideal for new server owners who need help with the initial setup to get their dream server running.
 - **Premium Management**: Best for community leaders, creators, or streamers who want their server professionally managed and maintained.
 
 ---
@@ -73,10 +73,10 @@ By subscribing to a management tier, our staff agrees to:
 To keep things efficient and clear, customers agree to:
 
 - Provide **all required files/configs** upfront in a ZIP or clearly organized structure (for Basic/Premium setups).
-- Avoid excessive daily requests unless subscribed to Premium.
+- Avoid excessive daily requests.
 - Understand that we do not offer custom plugin development or ongoing modpack rebuilding.
-- Maintain regular backups (even with our managed support, data loss can happen).
-- Use our Discord or ticket system for all support — staff will not provide support through DMs or unofficial channels.
+- Maintain regular backups (even with our managed support, we suggest making backups regularly).
+- Use our Discord or ticket system for all support — staff will generally not provide support through DMs or unofficial channels.
 
 ---
 
@@ -85,10 +85,10 @@ To keep things efficient and clear, customers agree to:
 | Feature                          | Basic Management | Premium Management |
 |----------------------------------|---------------|------------------|---------------------|
 | Modpack/Plugin Setup             | ✅ (One-time)     | ✅ (Ongoing)        |
-| Crash Support                    | ✅ (Basic)        | ✅ (Full)           |
-| Performance Optimization         | ✅ (Basic)        | ✅ (Full)           |
-| File/Plugin Updates              | ❌               | ✅                 |
-| Support Response Time            | 24-48 hours      | <24 hours           |
+| Crash Support                    | ✅                | ✅           |
+| Performance Optimization         | ✅                | ✅           |
+| File/Plugin Updates              | ❌                | ✅                 |
+| Support Response Time            | 24-48 hours       | <=24 hours           |
 | Monthly Maintenance              | ❌               | ✅ (on request)     |
 
 If you need further clarification, feel free to contact our support team or join our [Discord](https://apexnode.host/discord) for help.
