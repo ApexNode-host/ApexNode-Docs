@@ -4,12 +4,12 @@ theme: just-the-docs
 
 permalink: pretty
 
-plugins:
-  #  - jekyll-seo-tag
-  #  - jekyll-github-metadata
-  #  - jekyll-include-cache
-  #  - jekyll-sitemap
-  - just-the-docs
+#plugins:
+#  - jekyll-seo-tag
+#  - jekyll-github-metadata
+#  - jekyll-include-cache
+#  - jekyll-sitemap
+#  - just-the-docs
 
 url: https://docs.apexnode.host
 logo: apexnode_logo_full.png
