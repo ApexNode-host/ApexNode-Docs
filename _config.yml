@@ -12,7 +12,7 @@ favicon: favicon.ico
 aux_links:
   "Our Website": https://apexnode.host
   "Game Panel": https://panel.apexnode.host
-  "Billing Dashboard": https://dash.apexnode.host/dashboard
+  "Client Dashboard": https://dash.apexnode.host/dashboard
   "Join our Discord": https://apexnode.host/discord
 
 aux_links_new_tab: true
