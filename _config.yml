@@ -4,8 +4,6 @@ theme: just-the-docs
 
 permalink: pretty
 
-remote_theme: just-the-docs/just-the-docs
-
 gems:
   - just-the-docs
 
