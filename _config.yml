@@ -4,7 +4,11 @@ theme: just-the-docs
 
 permalink: pretty
 
-gems:
+plugins:
+  - jekyll-seo-tag
+  - jekyll-github-metadata
+  - jekyll-include-cache
+  - jekyll-sitemap
   - just-the-docs
 
 url: https://docs.apexnode.host
@@ -50,12 +54,6 @@ callouts:
   success:
     title: info
     color: green
-
-plugins:
-  - jekyll-seo-tag
-  - jekyll-github-metadata
-  - jekyll-include-cache
-  - jekyll-sitemap
 
 kramdown:
   syntax_highlighter_opts:
