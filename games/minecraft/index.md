@@ -24,6 +24,6 @@ If this is your first Minecraft server, use this order:
 1. Start the server once to generate required folders
 2. Apply optimization basics from the optimization guide
 3. Choose one server type:
-	- Modded: follow the modding/modpack guides
-	- Plugin-based: follow the plugins guide
+   - Modded: follow the modding/modpack guides
+   - Plugin-based: follow the plugins guide
 4. Set up your subdomain for easier sharing

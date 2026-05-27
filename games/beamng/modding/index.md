@@ -62,8 +62,8 @@ Placing files in the wrong folder is one of the most common causes of mods not l
 3. Select your BeamNG server
 4. Open the **Files** tab
 5. Navigate to the correct folder:
-	- `/Resources/Client` for client content
-	- `/Resources/Server` for server-side content
+   - `/Resources/Client` for client content
+   - `/Resources/Server` for server-side content
 6. Upload the mod `.zip` file
 7. Restart your server
 8. Join the server and confirm the mod content loads correctly
