@@ -4,61 +4,66 @@ layout: default
 parent: Minecraft Server Guides
 ---
 
-# Minecraft Server Modpack Guides
+# Minecraft Server Modpack Guide
+
+This guide is for Minecraft Java servers using Forge, Fabric, or NeoForge.
 
 {: .warning}
-The following guide is intended for Minecraft servers running Forge, Fabric, and NeoForge. Vanilla Minecraft servers, Bedrock servers, and most other non-modded Minecraft servers won't be able to handle Minecraft server mods or modpacks.
+Vanilla and Bedrock servers cannot run Java modpacks.
 
 {: .success}
-We recommened modpacks from [Modrinth](https://modrinth.com/modpacks), or [CurseForge](https://www.curseforge.com/minecraft/modpacks). But we also offer various other modpack providers through our Modpack Installer on our game panel.
+We recommend trusted modpack sources such as [Modrinth](https://modrinth.com/modpacks) and [CurseForge](https://www.curseforge.com/minecraft/modpacks).
 
-Regardless of where you download modpacks from only download modpacks from authors and sources you trust. Downloading and installing modpacks from untrusted sources can lead to security vulnerabilities.
+---
 
-You won't be needing to upload any modpack yourself, our game panel has a feature that allows you to simply select the modpack you want to install, and it will automatically download and install it for you.
+## Recommended: Install via ApexNode Modpack Installer
 
-For manual modpack installation, please follow the guide by [clicking here](#manual-installation).
+The built-in installer is the fastest and most reliable method for most users.
 
-Below is a step-by-step guide on how to install a Minecraft modpack on your server.
+### Install a Modpack
 
-### Automatic Installation
-
-{: .warning}
-Some modpacks don't include a server pack by default. Installing the modpack will still work most of the time, but may result in the server crashing on startup due to detecting client-only mods that are trying to be loaded into the server. If this happens you can either look through the crash logs and delete the mods that are causing the issue. The alternative is to let us help you out, just join our [Discord server](https://apexnode.host/discord) and create a ticket in the #create-ticket channel.
-
-1. Login to our [game panel](https://panel.apexnode.host)
-2. Select your Minecraft server.
-3. In the side menu, click the **More** button.
-4. Click the **Modpacks** button.
-5. At the top select the Modpack Provider you want to use.
-6. Search for the Modpack you want to install.
-7. Click the **Install** button to install the modpack. `The icon for the install button is the download arrow beside the name of the modpack.`
-8. Select the version of the modpack you want to install.
-`(Optional) Delete server files If you'd like to delete the server files for your Minecraft server, click the "Delete Server Files" button. Warning, this option is irreversible.`
-9. Click the **Install Modpack** button and wait for the modpack to install.
-
-### Updating the server's Modpack version.
-
-1. Login to our [game panel](https://panel.apexnode.host)
-2. Select your Minecraft server.
-3. In the side menu, click the **More** button.
-4. Click the **Modpacks** button.
-5. At the top select the Modpack Provider your modpack uses.
-6. Search for the Modpack your server is using.
-7. Click the **Install** button to install the modpack. `The icon for the install button is the download arrow beside the name of the modpack.`
-8. Select the version of the modpack you want to install.
-`Don't click the "Delete Server Files" button. Doing so would delete everything, including the world and saved data.`
-9. Click the **Install Modpack** button and wait for the modpack to install.
-
-### Manual Installation
+1. Log in to the ApexNode panel: [https://panel.apexnode.host](https://panel.apexnode.host)
+2. Select your Minecraft server
+3. Open **More**
+4. Click **Modpacks**
+5. Choose a modpack provider
+6. Search for your modpack
+7. Click the install icon next to the modpack
+8. Select the version you want
+9. Optional: choose **Delete Server Files** only if you want a clean install
+10. Click **Install Modpack** and wait for completion
 
 {: .warning}
-Installing modpacks from untrusted/unknown sources can lead to security vulnerabilities.
+The **Delete Server Files** option is irreversible.
 
-1. Find the modpack you want to install.
-2. If the modpack has a server pack, download it.
-3. Login to our [game panel](https://panel.apexnode.host)
-4. Select your Minecraft server.
-5. In the side menu, click the **Files** tab.
-6. Upload the server pack to the server files folder.
-7. Unarchive the server pack file into your server files folder.
-8. Start your Minecraft server and the modpack should be ready to use!
+---
+
+## Update an Existing Modpack
+
+1. Open **More** -> **Modpacks** in the panel
+2. Select the same provider your server modpack uses
+3. Find your current modpack
+4. Click install and choose the new version
+5. Do not select **Delete Server Files** if you want to preserve world and player data
+6. Start/restart the server after installation
+
+---
+
+## Manual Modpack Installation (Advanced)
+
+Use manual installation only when the modpack is not available in the installer.
+
+{: .warning}
+Always use the official server pack when available. Client packs often include client-only mods that can crash a server.
+
+### Steps
+
+1. Download the modpack's server pack from a trusted source
+2. Log in to the ApexNode panel and select your server
+3. Open the **Files** tab
+4. Upload the server pack archive
+5. Unarchive it in the server root directory
+6. Start the server
+7. If it crashes, check logs for client-only mods and remove them
+
+For help with crash triage, join support via [Discord](https://apexnode.host/discord).

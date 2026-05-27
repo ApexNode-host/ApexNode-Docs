@@ -1,0 +1,16 @@
+---
+title: Terraria Server Guides
+layout: default
+has_children: true
+parent: Game Server Guides
+---
+
+# Terraria Server Guides
+
+Use the guide below for Terraria server help on ApexNode.
+
+- [Terraria Server Modding](modding)
+
+More Terraria setup documentation is coming soon.
+
+If you need help now, reach out in our [Discord](https://apexnode.host/discord).

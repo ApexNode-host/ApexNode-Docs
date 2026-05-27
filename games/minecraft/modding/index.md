@@ -4,36 +4,51 @@ layout: default
 parent: Minecraft Server Guides
 ---
 
-# Minecraft Server Modding Installation Guide
+# Minecraft Server Modding Guide
 
-### Downloading Mods
+This guide is for Minecraft Java servers using **Forge**, **Fabric**, or **NeoForge**.
 
 {: .warning}
-The following guide is intended for Minecraft servers running Forge, Fabric, and NeoForge. Vanilla Minecraft servers, Bedrock servers, and most other non-modded Minecraft servers won't be able to handle Minecraft server mods.
+Vanilla and Bedrock servers cannot load Java mod `.jar` files.
 
 {: .success}
-We recommened downloading mods from [Modrinth](https://modrinth.com/mods), or [CurseForge](www.curseforge.com/minecraft/mc-mods/).
+We recommend downloading mods from [Modrinth](https://modrinth.com/mods) or [CurseForge](https://www.curseforge.com/minecraft/mc-mods).
 
-Regardless of where you download mods from only download mods from authors and sources you trust. Downloading and installing mods from untrusted sources can lead to security vulnerabilities.
+---
 
-### Installing Mods
-
-{: .warning}
-Installing mods from untrusted/unknown sources can lead to security vulnerabilities.
+## Before You Install Mods
 
 {: .warning}
-Some mods may require specific versions of Minecraft. Only install Minecraft mods that have been confirmed by the author to work for your Minecraft server's version.
+Only download mods from trusted authors and sources.
 
-Installing a Minecraft server mod is relatively simply and straightforward for the most-part. However depending on the mod you're installing, there may be additional steps you need to take. Be sure to check with the install guide for the mod it where needed. 
+{: .warning}
+Confirm every mod matches your server's Minecraft version and mod loader version.
 
-Likewise, some mods may be dependent on other mods being installed alongside it, so always check the mod dependencies as well.
+Many mods also require dependency mods (libraries/core APIs). Always check each mod page for required dependencies.
 
-*Below are the most common steps for installing a mod.*
+---
 
-1. Download the mod to your computer.
-2. Login to our game panel.
-3. Select your Minecraft server.
-4. In the side menu, click the **Files** tab.
-5. Click to open the mods folder. `If you don't see a mods folder, create one.`
-6. Upload your mod .jar file inside your mods folder. `If you're mod is in a .zip file, upload the .zip file to the mods folder and unarchive the .zip file, making sure the mod .jar file is in the mods folder.`
-7. Finally restart your Minecraft server and the mod should be ready to use!
+## Step-by-Step Installation
+
+1. Download the mod to your computer
+2. Log in to the ApexNode panel: [https://panel.apexnode.host](https://panel.apexnode.host)
+3. Select your Minecraft server
+4. Open the **Files** tab
+5. Open the `mods` folder
+6. If the `mods` folder does not exist, create it
+7. Upload your `.jar` mod file to `mods`
+8. If the download is a `.zip`, unarchive it and upload the contained `.jar` file(s) to `mods`
+9. Restart the server
+10. Join the server and verify the mod is loaded
+
+---
+
+## Troubleshooting
+
+If a mod fails to load, check the following:
+
+1. The file in `mods` is a `.jar`, not just a `.zip`
+2. The mod version matches your Minecraft and loader versions
+3. Required dependency mods are installed
+4. The server was fully restarted after upload
+5. Error details in logs reference a missing dependency or wrong version

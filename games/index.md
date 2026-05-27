@@ -19,8 +19,8 @@ Find step-by-step guides on how to configure and optimize servers for Minecraft,
 
 ### Project Zomboid Guides
 
-- [Project Zomboid Server Setup](projectzomboid)
-- [Project Zomboid Server Modding](projectzomboid/modding)
+- [Project Zomboid Server Setup](project_zomboid)
+- [Project Zomboid Server Modding](project_zomboid/modding)
 
 ### BeamNG Guides
 
@@ -42,5 +42,5 @@ Find step-by-step guides on how to configure and optimize servers for Minecraft,
 
 ### Vintage Story Guides
 
-- [Vintage Story Server Setup](vintagestory)
-- [Vintage Story Server Modding](vintagestory/modding)
+- [Vintage Story Server Setup](vintage_story)
+- [Vintage Story Server Modding](vintage_story/modding)

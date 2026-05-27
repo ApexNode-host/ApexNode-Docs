@@ -7,10 +7,44 @@ parent: Game Server Guides
 
 # BeamNG Server Guides
 
-# Setting up your server with a BeamNG AuthKey
+Use the guides below to configure and manage your BeamMP server on ApexNode.
 
-1. Login to [https://keymaster.beammp.com](https://keymaster.beammp.com) and copy the server Authentication Key you retrieve from them.
-2. Login to our game panel [https://panel.apexnode.host](https://panel.apexnode.host) and select your BeamNG game server.
-3. Go to the **Startup** tab.
-4. Paste the Authentication Key you received to the *Authentication Key* configuration area.
-5. Restart your BeamNG server.
+- [BeamNG Server Modding](modding)
+
+---
+
+## BeamMP Server Setup (AuthKey)
+
+Your BeamMP server requires a valid AuthKey from BeamMP Keymaster before players can connect.
+
+### Step-by-Step
+
+1. Open BeamMP Keymaster: [https://keymaster.beammp.com](https://keymaster.beammp.com)
+2. Sign in and copy your server **Authentication Key**
+3. Log in to the ApexNode panel: [https://panel.apexnode.host](https://panel.apexnode.host)
+4. Select your BeamNG server
+5. Open the **Startup** tab
+6. Paste your key into the **Authentication Key** field
+7. Save changes (if prompted)
+8. Restart your server
+
+---
+
+## Quick Verification
+
+After restarting, verify the server is configured correctly:
+
+1. Check the server console for normal startup output
+2. Confirm no AuthKey-related errors are shown
+3. Join the server from BeamMP to confirm connectivity
+
+---
+
+## Troubleshooting
+
+If your server fails to authenticate or does not appear online:
+
+1. Re-copy the key from Keymaster and paste it again (avoid extra spaces)
+2. Confirm the key was added to the correct server in the panel
+3. Save and fully restart the server after changing startup values
+4. Generate a new AuthKey in Keymaster if the old one appears invalid
