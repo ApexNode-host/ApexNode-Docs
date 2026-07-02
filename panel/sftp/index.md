@@ -7,71 +7,53 @@ nav_order: 3
 
 # How to use SFTP with your game server
 
-SFTP (SSH File Transfer Protocol) lets you connect to your game server’s files from your computer using a dedicated file transfer program. It is the best way to upload, download, and manage large files on your server.
+SFTP lets you connect to your game server's files from your computer using a program like FileZilla or WinSCP. It's the easiest way to upload, download, and manage files on your server—especially when you're working with bigger files.
 
-For small files, you can still use the **Files** tab in the [game panel](https://panel.apexnode.host). For anything larger-or when you are moving many files at once-use SFTP instead.
+For quick edits or small uploads, the **Files** tab in our [game panel](https://panel.apexnode.host) works just fine. For anything larger, or when you're moving a lot of files at once, you'll want to use SFTP instead. Simply follow our steps below.
 
 ---
 
 ## Why use SFTP instead of the web panel?
 
-The game panel file manager is convenient for quick edits and small uploads, but it has limits that make SFTP the better choice for most file work.
+The **Files** tab in the game panel has a **1 GB per file** upload limit. If you're trying to install a large mod pack, upload a world backup, or move any other big file, the web uploader won't accept it.
 
-### 1 GB upload limit in the web panel
-
-Uploads through the **Files** tab in the game panel are limited to **1 GB per file**. If you are installing a large mod pack, world backup, or other big archive, the web uploader will not accept it.
-
-SFTP has no such per-file limit from our panel, so you can transfer large files directly to your server storage.
-
-### Better performance
-
-Large uploads through a web browser are slower and less reliable than a dedicated SFTP client. SFTP clients are built for file transfers-they handle big files, resume interrupted uploads, and let you drag and drop entire folders at once.
-
-### Security
-
-We restrict the web panel upload size for **performance and security**. Limiting browser-based uploads helps protect the panel and node from abuse, such as oversized or malicious upload attempts that could affect server stability.
-
-SFTP uses an encrypted connection and is the standard, secure way to manage server files at scale.
+We keep that limit in place for performance and security reasons—large browser uploads can slow things down and put extra strain on the panel. SFTP doesn't have that same restriction, and it's generally faster and more reliable for bigger transfers too.
 
 {: .success}
-For most file work-especially mods, plugins, backups, and world files-we recommend using SFTP.
+For mods, plugins, backups, and world files, we recommend using SFTP whenever you can.
 
 ---
 
 ## Recommended SFTP programs
 
-We recommend the following free programs:
+We recommend these free programs:
 
 | Program | Platform | Download |
 |:--------|:---------|:---------|
 | **FileZilla** | Windows, macOS, Linux | [https://filezilla-project.org](https://filezilla-project.org) |
 | **WinSCP** | Windows | [https://winscp.net](https://winscp.net) |
 
-You may use **any SFTP client** you are comfortable with. Other popular options include Cyberduck (macOS/Windows) and built-in SFTP support in tools like VS Code. Just make sure the program supports **SFTP**-regular FTP is not the same protocol and will not work.
+You're welcome to use any SFTP program you're comfortable with—Cyberduck and VS Code are popular alternatives. Just make sure it supports **SFTP**, not regular FTP. They're different protocols and regular FTP won't work with our servers.
 
 ---
 
-## Step 1. Get your SFTP connection details
+### Step 1. Login to our [game panel](https://panel.apexnode.host)
 
-1. Log in to the [game panel](https://panel.apexnode.host)
-2. Select the game server you want to connect to
-3. Open the **Files** tab
-4. Note the SFTP connection details shown at the top of the page:
-   - **Server address** (hostname)
-   - **Username**
-   - **Port** (commonly `2022`)
+### Step 2. Select the game server you want to connect to
 
-Your SFTP password is the same password you use to log in to the game panel.
+### Step 3. Click the "Files" tab
+
+At the top of the page you'll see your SFTP connection details—your server address, username, and port (usually `2022`). Your SFTP password is the same password you use to log in to the game panel.
 
 {: .warning}
-Each game server has its own SFTP username. If you manage multiple servers, use the credentials shown on the **Files** tab for the server you are working on.
+Each game server has its own SFTP username. If you manage multiple servers, make sure you're using the credentials shown on the **Files** tab for the server you're working on.
 
 ---
 
-## Step 2. Connect with FileZilla
+### Step 4. Connect with FileZilla
 
 1. Open FileZilla
-2. Go to **File -> Site Manager** (or press `Ctrl+S`)
+2. Go to **File → Site Manager** (or press `Ctrl+S`)
 3. Click **New Site** and give it a name (e.g. "My ApexNode Server")
 4. Set **Protocol** to **SFTP - SSH File Transfer Protocol**
 5. Enter your **Host** (server address from the panel)
@@ -80,27 +62,27 @@ Each game server has its own SFTP username. If you manage multiple servers, use 
 8. Enter your **User** and **Password** from the panel
 9. Click **Connect**
 
-Once connected, your local files appear on the left and your server files on the right. Drag and drop files between the two sides to upload or download.
+Your local files will show up on the left and your server files on the right. From there you can drag and drop files to upload or download them.
 
 ---
 
-## Step 3. Connect with WinSCP
+### Step 5. Connect with WinSCP
 
 1. Open WinSCP
-2. On the login screen, set **File protocol** to **SFTP**
+2. Set **File protocol** to **SFTP**
 3. Enter your **Host name** (server address from the panel)
 4. Enter **Port number** (from the panel, usually `2022`)
 5. Enter your **User name** and **Password** from the panel
 6. Click **Login**
-7. If prompted about the server host key, click **Yes** to trust and save it
+7. If you're asked about the server host key, click **Yes** to trust and save it
 
-Once connected, your local files appear on the left and your server files on the right. Drag and drop to transfer files.
+Same as FileZilla—your local files are on the left, server files on the right. Drag and drop to transfer.
 
 ---
 
-## Tips
+## A few things to keep in mind
 
-- **Stop the server** before replacing game files that are in use (e.g. swapping a mod or plugin `.jar`), then start it again when finished.
-- Upload to the correct folder for your game (e.g. `mods`, `plugins`, `worlds`). Check the relevant [game guides](../../games/) if you are unsure.
-- For files over 1 GB, always use SFTP-the web panel uploader cannot accept them.
-- If you cannot connect, double-check the server address, port, username, and password on the **Files** tab for the correct server.
+- **Stop your server** before replacing files that are in use (like swapping out a mod or plugin `.jar`), then start it back up when you're done.
+- Make sure you're uploading to the right folder for your game (e.g. `mods`, `plugins`, `worlds`). If you're not sure, check our [game guides](../../games/).
+- Files over 1 GB need to go through SFTP—the web panel uploader can't handle them.
+- Having trouble connecting? Double-check the server address, port, username, and password on the **Files** tab for the correct server.
