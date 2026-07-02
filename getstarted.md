@@ -23,7 +23,7 @@ Like many hosts, we have a list of games to choose from.
 | Necesse         |
 | Vintage Story   |
 
-{: .highlight}
+{: .note}
 You can change the active game server to any other game server that we offer quickly and easily from our game panel. Learn more by [clicking here](panel/changegame).
 
 From this list you may pick any game you want hosted from us.

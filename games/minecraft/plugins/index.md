@@ -26,6 +26,9 @@ Check plugin compatibility with both your Minecraft version and your server soft
 
 Some plugins require dependency plugins. Review each plugin page for required libraries or companion plugins.
 
+{: .note}
+The game panel **Files** tab supports uploads up to **1 GB per file**. For larger files—or when uploading many plugins at once—use [SFTP](/panel/sftp/) instead.
+
 ---
 
 ## Step-by-Step Installation
@@ -36,8 +39,8 @@ Some plugins require dependency plugins. Review each plugin page for required li
 4. Open the **Files** tab
 5. Open the `plugins` folder
 6. If the `plugins` folder does not exist, create it
-7. Upload the plugin `.jar` file into `plugins`
-8. If your download is a `.zip`, unarchive it and upload the contained `.jar` file(s)
+7. Upload the plugin `.jar` file into `plugins` via the **Files** tab, or use [SFTP](/panel/sftp/) if the file is over 1 GB
+8. If your download is a `.zip`, unarchive it on your computer, then upload the contained `.jar` file(s)
 9. Restart the server
 10. Confirm the plugin loads in console output and in-game behavior
 

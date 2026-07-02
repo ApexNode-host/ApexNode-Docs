@@ -15,7 +15,7 @@ Welcome to the official ApexNode Documentation—your go-to resource for everyth
 
 -   [Getting Started](getstarted) – Learn how to set up your account, deploy a game server, and access your [control panel](https://panel.apexnode.host).
 
--   [Game Panel Guides](panel) - Learn more about our game panel, how to [change games](panel/changegame), [split servers](panel/splitserver), and more!
+-   [Game Panel Guides](panel) - Learn more about our game panel, how to [change games](panel/changegame), [split servers](panel/splitserver), [transfer files via SFTP](panel/sftp), and more!
     
 -   [Game Server Guides](games) – Step-by-step tutorials for configuring and optimizing servers for Minecraft, Project Zomboid, BeamNG, Terraria, Palworld, Vintage Story, and more.
     

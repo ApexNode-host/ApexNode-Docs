@@ -56,11 +56,14 @@ Use manual installation only when the modpack is not available in the installer.
 {: .warning}
 Always use the official server pack when available. Client packs often include client-only mods that can crash a server.
 
+{: .note}
+Modpack server archives are often larger than 1 GB. The web panel **Files** tab cannot accept files over **1 GB per file**—use [SFTP](/panel/sftp/) for large modpack uploads.
+
 ### Steps
 
 1. Download the modpack's server pack from a trusted source
 2. Log in to the ApexNode panel and select your server
-3. Open the **Files** tab
+3. Open the **Files** tab (or connect via [SFTP](/panel/sftp/) for archives over 1 GB)
 4. Upload the server pack archive
 5. Unarchive it in the server root directory
 6. Start the server

@@ -26,6 +26,9 @@ Confirm every mod matches your server's Minecraft version and mod loader version
 
 Many mods also require dependency mods (libraries/core APIs). Always check each mod page for required dependencies.
 
+{: .note}
+The game panel **Files** tab supports uploads up to **1 GB per file**. For larger files—or when uploading many mods at once—use [SFTP](/panel/sftp/) instead.
+
 ---
 
 ## Step-by-Step Installation
@@ -36,8 +39,8 @@ Many mods also require dependency mods (libraries/core APIs). Always check each 
 4. Open the **Files** tab
 5. Open the `mods` folder
 6. If the `mods` folder does not exist, create it
-7. Upload your `.jar` mod file to `mods`
-8. If the download is a `.zip`, unarchive it and upload the contained `.jar` file(s) to `mods`
+7. Upload your `.jar` mod file to `mods` via the **Files** tab, or use [SFTP](/panel/sftp/) if the file is over 1 GB
+8. If the download is a `.zip`, unarchive it on your computer, then upload the contained `.jar` file(s) to `mods`
 9. Restart the server
 10. Join the server and verify the mod is loaded
 

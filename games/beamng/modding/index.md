@@ -55,6 +55,9 @@ Use this method when a mod is not available in the one-click manager, or when yo
 
 Placing files in the wrong folder is one of the most common causes of mods not loading.
 
+{: .note}
+The game panel **Files** tab supports uploads up to **1 GB per file**. For larger mod files—or when uploading many files at once—use [SFTP](/panel/sftp/) instead.
+
 ### Step-by-Step
 
 1. Download the mod file to your computer (usually a `.zip`)
@@ -64,7 +67,7 @@ Placing files in the wrong folder is one of the most common causes of mods not l
 5. Navigate to the correct folder:
    - `/Resources/Client` for client content
    - `/Resources/Server` for server-side content
-6. Upload the mod `.zip` file
+6. Upload the mod `.zip` file via the **Files** tab, or use [SFTP](/panel/sftp/) if the file is over 1 GB
 7. Restart your server
 8. Join the server and confirm the mod content loads correctly
 
