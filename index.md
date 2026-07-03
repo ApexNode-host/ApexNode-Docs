@@ -5,7 +5,7 @@ layout: home
 nav_order: 1
 ---
 
-# Welcome to the ApexNode Docs!
+# ApexNode.host Docs
 
 {: .warning}
 Our documentation/knowledgebase is still a Work-In-Progress. Many guides and docs aren't added or complete yet.
