@@ -13,3 +13,8 @@ Find step-by-step guides and information for our Billing Portal.
 ### Addon Guides
 
 - [Server Management Guide](server-management)
+
+### Programs
+
+- [Affiliate Program](affiliate-program)
+- [Partner Program](partner-program)
