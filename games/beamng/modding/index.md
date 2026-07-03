@@ -56,7 +56,7 @@ Use this method when a mod is not available in the one-click manager, or when yo
 Placing files in the wrong folder is one of the most common causes of mods not loading.
 
 {: .note}
-The game panel **Files** tab supports uploads up to **1 GB per file**. For larger mod files—or when uploading many files at once—use [SFTP](/panel/sftp/) instead.
+The game panel **Files** tab supports uploads up to **1 GB per file**. For larger mod files-or when uploading many files at once-use [SFTP](/panel/sftp/) instead.
 
 ### Step-by-Step
 

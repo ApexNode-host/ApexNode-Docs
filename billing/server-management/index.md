@@ -32,7 +32,7 @@ Recommended for users who need help or a boost for **getting started** but plan 
 ---
 
 ### Premium Management ($75 / month)
-For those who want a **fully managed experience** — we handle setup, maintenance, and regular updates so you can focus on your community.
+For those who want a **fully managed experience** - we handle setup, maintenance, and regular updates so you can focus on your community.
 
 **Includes:**
 - Everything in Basic Management
@@ -61,7 +61,7 @@ For those who want a **fully managed experience** — we handle setup, maintenan
 By subscribing to a management tier, our staff agrees to:
 
 - Respond to Premium Management support tickets within **24 hours**.
-- Treat your server environment with care — no unnecessary file changes.
+- Treat your server environment with care - no unnecessary file changes.
 - Keep all uploaded content confidential.
 - Complete initial setups (Basic or Premium) within **48 hours** of receiving all files.
 - Provide recommendations for optimization and stability where possible.
@@ -76,7 +76,7 @@ To keep things efficient and clear, customers agree to:
 - Avoid excessive daily requests.
 - Understand that we do not offer custom plugin development or ongoing modpack rebuilding.
 - Maintain regular backups (even with our managed support, we suggest making backups regularly).
-- Use our Discord or ticket system for all support — staff will generally not provide support through DMs or unofficial channels.
+- Use our Discord or ticket system for all support - staff will generally not provide support through DMs or unofficial channels.
 
 ---
 

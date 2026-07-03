@@ -27,7 +27,7 @@ Confirm every mod matches your server's Minecraft version and mod loader version
 Many mods also require dependency mods (libraries/core APIs). Always check each mod page for required dependencies.
 
 {: .note}
-The game panel **Files** tab supports uploads up to **1 GB per file**. For larger files—or when uploading many mods at once—use [SFTP](/panel/sftp/) instead.
+The game panel **Files** tab supports uploads up to **1 GB per file**. For larger files-or when uploading many mods at once-use [SFTP](/panel/sftp/) instead.
 
 ---
 

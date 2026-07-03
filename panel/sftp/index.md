@@ -7,7 +7,7 @@ nav_order: 3
 
 # How to use SFTP with your game server
 
-SFTP lets you connect to your game server's files from your computer using a program like FileZilla or WinSCP. It's the easiest way to upload, download, and manage files on your server—especially when you're working with bigger files.
+SFTP lets you connect to your game server's files from your computer using a program like FileZilla or WinSCP. It's the easiest way to upload, download, and manage files on your server-especially when you're working with bigger files.
 
 For quick edits or small uploads, the **Files** tab in our [game panel](https://panel.apexnode.host) works just fine. For anything larger, or when you're moving a lot of files at once, you'll want to use SFTP instead. Simply follow our steps below.
 
@@ -17,7 +17,7 @@ For quick edits or small uploads, the **Files** tab in our [game panel](https://
 
 The **Files** tab in the game panel has a **1 GB per file** upload limit. If you're trying to install a large mod pack, upload a world backup, or move any other big file, the web uploader won't accept it.
 
-We keep that limit in place for performance and security reasons—large browser uploads can slow things down and put extra strain on the panel. SFTP doesn't have that same restriction, and it's generally faster and more reliable for bigger transfers too.
+We keep that limit in place for performance and security reasons-large browser uploads can slow things down and put extra strain on the panel. SFTP doesn't have that same restriction, and it's generally faster and more reliable for bigger transfers too.
 
 {: .success}
 For mods, plugins, backups, and world files, we recommend using SFTP whenever you can.
@@ -33,7 +33,7 @@ We recommend these free programs:
 | **FileZilla** | Windows, macOS, Linux | [https://filezilla-project.org](https://filezilla-project.org) |
 | **WinSCP** | Windows | [https://winscp.net](https://winscp.net) |
 
-You're welcome to use any SFTP program you're comfortable with—Cyberduck and VS Code are popular alternatives. Just make sure it supports **SFTP**, not regular FTP. They're different protocols and regular FTP won't work with our servers.
+You're welcome to use any SFTP program you're comfortable with-Cyberduck and VS Code are popular alternatives. Just make sure it supports **SFTP**, not regular FTP. They're different protocols and regular FTP won't work with our servers.
 
 ---
 
@@ -43,7 +43,7 @@ You're welcome to use any SFTP program you're comfortable with—Cyberduck and V
 
 ### Step 3. Click the "Files" tab
 
-At the top of the page you'll see your SFTP connection details—your server address, username, and port (usually `2022`). Your SFTP password is the same password you use to log in to the game panel.
+At the top of the page you'll see your SFTP connection details-your server address, username, and port (usually `2022`). Your SFTP password is the same password you use to log in to the game panel.
 
 {: .warning}
 Each game server has its own SFTP username. If you manage multiple servers, make sure you're using the credentials shown on the **Files** tab for the server you're working on.
@@ -76,7 +76,7 @@ Your local files will show up on the left and your server files on the right. Fr
 6. Click **Login**
 7. If you're asked about the server host key, click **Yes** to trust and save it
 
-Same as FileZilla—your local files are on the left, server files on the right. Drag and drop to transfer.
+Same as FileZilla-your local files are on the left, server files on the right. Drag and drop to transfer.
 
 ---
 
@@ -84,5 +84,5 @@ Same as FileZilla—your local files are on the left, server files on the right.
 
 - **Stop your server** before replacing files that are in use (like swapping out a mod or plugin `.jar`), then start it back up when you're done.
 - Make sure you're uploading to the right folder for your game (e.g. `mods`, `plugins`, `worlds`). If you're not sure, check our [game guides](../../games/).
-- Files over 1 GB need to go through SFTP—the web panel uploader can't handle them.
+- Files over 1 GB need to go through SFTP-the web panel uploader can't handle them.
 - Having trouble connecting? Double-check the server address, port, username, and password on the **Files** tab for the correct server.

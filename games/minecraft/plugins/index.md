@@ -27,7 +27,7 @@ Check plugin compatibility with both your Minecraft version and your server soft
 Some plugins require dependency plugins. Review each plugin page for required libraries or companion plugins.
 
 {: .note}
-The game panel **Files** tab supports uploads up to **1 GB per file**. For larger files—or when uploading many plugins at once—use [SFTP](/panel/sftp/) instead.
+The game panel **Files** tab supports uploads up to **1 GB per file**. For larger files-or when uploading many plugins at once-use [SFTP](/panel/sftp/) instead.
 
 ---
 

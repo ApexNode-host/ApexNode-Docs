@@ -112,7 +112,7 @@ This method takes longer up front but is more reliable for larger mod lists.
    `C:\Users\<your_name>\Zomboid\Server`
 3. Open the file:
    `servertest.ini`
-4. Keep this file open — you’ll be copying values from it shortly
+4. Keep this file open - you’ll be copying values from it shortly
 
 ---
 

@@ -57,7 +57,7 @@ Use manual installation only when the modpack is not available in the installer.
 Always use the official server pack when available. Client packs often include client-only mods that can crash a server.
 
 {: .note}
-Modpack server archives are often larger than 1 GB. The web panel **Files** tab cannot accept files over **1 GB per file**—use [SFTP](/panel/sftp/) for large modpack uploads.
+Modpack server archives are often larger than 1 GB. The web panel **Files** tab cannot accept files over **1 GB per file**-use [SFTP](/panel/sftp/) for large modpack uploads.
 
 ### Steps
 
