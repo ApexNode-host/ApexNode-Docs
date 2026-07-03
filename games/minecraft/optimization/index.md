@@ -64,4 +64,8 @@ Address one change at a time, then retest to confirm impact.
 
 ---
 
-Don't have a Minecraft server yet? [Order one here](https://apexnode.host/games/minecraft-java-server-hosting).
+## Ready to play?
+
+Don't have a Minecraft server yet?
+
+[![Order Now](/apexnode_order_now.png)](https://apexnode.host/games/minecraft-java-server-hosting)

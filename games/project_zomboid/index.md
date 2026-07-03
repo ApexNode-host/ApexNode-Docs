@@ -23,4 +23,8 @@ Use the guides below to configure and customize your Project Zomboid server on A
 
 ---
 
-Don't have a Project Zomboid server yet? [Order one here](https://apexnode.host/games/project-zomboid-server-hosting).
+## Ready to play?
+
+Don't have a Project Zomboid server yet?
+
+[![Order Now](/apexnode_order_now.png)](https://apexnode.host/games/project-zomboid-server-hosting)

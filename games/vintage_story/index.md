@@ -18,4 +18,8 @@ If you need help now, reach out in our [Discord](https://apexnode.host/discord).
 
 ---
 
-Don't have a Vintage Story server yet? [Order one here](https://apexnode.host/games/vintage-story-server-hosting).
+## Ready to play?
+
+Don't have a Vintage Story server yet?
+
+[![Order Now](/apexnode_order_now.png)](https://apexnode.host/games/vintage-story-server-hosting)

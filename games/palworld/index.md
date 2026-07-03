@@ -13,4 +13,8 @@ If you need setup help right now, reach out in our [Discord](https://apexnode.ho
 
 ---
 
-Don't have a Palworld server yet? [Order one here](https://apexnode.host/games/palworld-server-hosting).
+## Ready to play?
+
+Don't have a Palworld server yet?
+
+[![Order Now](/apexnode_order_now.png)](https://apexnode.host/games/palworld-server-hosting)

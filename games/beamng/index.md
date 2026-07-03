@@ -52,4 +52,8 @@ If your server fails to authenticate or does not appear online:
 
 ---
 
-Don't have a BeamNG server yet? [Order one here](https://apexnode.host/games/beamng-server-hosting).
+## Ready to play?
+
+Don't have a BeamNG server yet?
+
+[![Order Now](/apexnode_order_now.png)](https://apexnode.host/games/beamng-server-hosting)

@@ -97,4 +97,8 @@ If problems continue, remove the last installed mod and restart again to confirm
 
 ---
 
-Don't have a BeamNG server yet? [Order one here](https://apexnode.host/games/beamng-server-hosting).
+## Ready to play?
+
+Don't have a BeamNG server yet?
+
+[![Order Now](/apexnode_order_now.png)](https://apexnode.host/games/beamng-server-hosting)

@@ -13,4 +13,8 @@ If you need immediate assistance with tModLoader or manual mod setup, reach out 
 
 ---
 
-Don't have a Terraria server yet? [Order one here](https://apexnode.host/games/terraria-server-hosting).
+## Ready to play?
+
+Don't have a Terraria server yet?
+
+[![Order Now](/apexnode_order_now.png)](https://apexnode.host/games/terraria-server-hosting)

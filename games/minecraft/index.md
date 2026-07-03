@@ -31,4 +31,8 @@ If this is your first Minecraft server, use this order:
 
 ---
 
-Don't have a Minecraft server yet? [Order one here](https://apexnode.host/games/minecraft-java-server-hosting).
+## Ready to play?
+
+Don't have a Minecraft server yet?
+
+[![Order Now](/apexnode_order_now.png)](https://apexnode.host/games/minecraft-java-server-hosting)
