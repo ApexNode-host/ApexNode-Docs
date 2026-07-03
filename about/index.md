@@ -1,5 +1,6 @@
 ---
 title: About ApexNode
+description: Learn about ApexNode, our mission, hardware specs, support options, and why gamers choose us.
 layout: default
 nav_order: 2
 ---

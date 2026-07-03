@@ -1,5 +1,6 @@
 ---
 title: Minecraft Server Plugins
+description: How to install Spigot and Paper plugins on your ApexNode Minecraft server.
 layout: default
 parent: Minecraft Server Guides
 ---

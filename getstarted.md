@@ -1,5 +1,6 @@
 ---
 title: Getting Started
+description: Learn how to create your ApexNode account, choose a game, pick a plan, and deploy your first server.
 layout: default
 nav_order: 3
 ---

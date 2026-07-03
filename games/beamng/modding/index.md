@@ -1,5 +1,6 @@
 ---
 title: BeamNG Server Modding
+description: How to install mods on your ApexNode BeamMP server using the mod manager or manual upload.
 layout: default
 parent: BeamNG Server Guides
 ---

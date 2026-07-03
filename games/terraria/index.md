@@ -1,5 +1,6 @@
 ---
 title: Terraria Server Guides
+description: Guides for setting up and configuring your Terraria server on ApexNode.
 layout: default
 has_children: true
 parent: Game Server Guides

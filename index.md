@@ -1,5 +1,6 @@
 ---
 title: Home
+description: Official ApexNode documentation with guides for game server setup, the game panel, billing, and more.
 layout: home
 nav_order: 1
 ---

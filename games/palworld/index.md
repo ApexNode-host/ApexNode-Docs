@@ -1,5 +1,6 @@
 ---
 title: Palworld Server Guides
+description: Guides for setting up and configuring your Palworld dedicated server on ApexNode.
 layout: default
 parent: Game Server Guides
 ---

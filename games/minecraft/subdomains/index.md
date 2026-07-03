@@ -1,5 +1,6 @@
 ---
 title: Minecraft Java Subdomains Guide
+description: How to set up a custom subdomain for your ApexNode Minecraft Java server using SRV records.
 layout: default
 parent: Minecraft Server Guides
 ---

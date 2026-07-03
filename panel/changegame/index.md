@@ -1,5 +1,6 @@
 ---
 title: Change Game
+description: How to switch your ApexNode server to a different game using the Change Egg feature in the game panel.
 layout: default
 parent: Game Panel
 nav_order: 1

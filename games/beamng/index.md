@@ -1,5 +1,6 @@
 ---
 title: BeamNG Server Guides
+description: Guides for setting up and managing your BeamMP server on ApexNode.
 layout: default
 has_children: true
 parent: Game Server Guides

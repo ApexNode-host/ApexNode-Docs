@@ -1,5 +1,6 @@
 ---
 title: Server Management Addon
+description: How to use the ApexNode Server Management addon for professional server setup and configuration services.
 layout: default
 parent: Billing Portal Guides
 ---

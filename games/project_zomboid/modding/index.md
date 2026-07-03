@@ -1,5 +1,6 @@
 ---
 title: Project Zomboid Server Modding
+description: How to install Steam Workshop mods on your ApexNode Project Zomboid server.
 layout: default
 parent: Project Zomboid Server Guides
 ---

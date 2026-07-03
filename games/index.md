@@ -1,5 +1,6 @@
 ---
 title: Game Server Guides
+description: Step-by-step guides for setting up, modding, and optimizing game servers on ApexNode.
 layout: default
 nav_order: 5
 has_children: true

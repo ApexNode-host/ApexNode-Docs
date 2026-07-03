@@ -1,5 +1,6 @@
 ---
 title: SFTP File Access
+description: How to connect to your ApexNode game server via SFTP using FileZilla or WinSCP for fast, unlimited file transfers.
 layout: default
 parent: Game Panel
 nav_order: 3

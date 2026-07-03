@@ -1,5 +1,6 @@
 ---
 title: Terraria Server Modding
+description: How to install tModLoader mods on your ApexNode Terraria server.
 layout: default
 parent: Terraria Server Guides
 ---

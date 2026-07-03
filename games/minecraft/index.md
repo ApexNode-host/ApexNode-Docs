@@ -1,5 +1,6 @@
 ---
 title: Minecraft Server Guides
+description: Guides for Minecraft server setup, optimization, modding, plugins, modpacks, and subdomains on ApexNode.
 layout: default
 has_children: true
 parent: Game Server Guides

@@ -1,5 +1,6 @@
 ---
 title: Minecraft Server Modpacks
+description: How to install modpacks on your ApexNode Minecraft server using the built-in installer or manual upload.
 layout: default
 parent: Minecraft Server Guides
 ---

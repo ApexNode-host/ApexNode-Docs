@@ -1,15 +1,12 @@
 title: ApexNode Docs
-description: The documentation for ApexNode.host services.
+description: Official documentation and guides for ApexNode.host game server hosting.
 theme: just-the-docs
 
 permalink: pretty
 
-#plugins:
-#  - jekyll-seo-tag
-#  - jekyll-github-metadata
-#  - jekyll-include-cache
-#  - jekyll-sitemap
-#  - just-the-docs
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
 
 url: https://docs.apexnode.host
 logo: apexnode_logo_full.png

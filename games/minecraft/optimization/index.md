@@ -1,5 +1,6 @@
 ---
 title: Minecraft Server Optimization
+description: Improve your Minecraft server performance with JVM flags, server properties tweaks, and plugin recommendations.
 layout: default
 parent: Minecraft Server Guides
 ---

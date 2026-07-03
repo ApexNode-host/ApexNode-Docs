@@ -1,5 +1,6 @@
 ---
 title: Split Server
+description: How to split your ApexNode game server into multiple servers and allocate resources between them.
 layout: default
 parent: Game Panel
 nav_order: 2

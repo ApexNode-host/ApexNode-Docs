@@ -1,5 +1,6 @@
 ---
 title: Project Zomboid Server Guides
+description: Guides for setting up and configuring your Project Zomboid multiplayer server on ApexNode.
 layout: default
 has_children: true
 parent: Game Server Guides

@@ -1,5 +1,6 @@
 ---
 title: Vintage Story Server Modding
+description: How to install mods on your ApexNode Vintage Story server.
 layout: default
 parent: Vintage Story Server Guides
 ---

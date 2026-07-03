@@ -1,5 +1,6 @@
 ---
 title: Satisfactory Server Guides
+description: Guides for setting up and configuring your Satisfactory dedicated server on ApexNode.
 layout: default
 parent: Game Server Guides
 ---

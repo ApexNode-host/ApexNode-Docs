@@ -1,5 +1,6 @@
 ---
 title: Minecraft Server Modding
+description: How to install Forge, Fabric, and NeoForge mods on your ApexNode Minecraft server.
 layout: default
 parent: Minecraft Server Guides
 ---
