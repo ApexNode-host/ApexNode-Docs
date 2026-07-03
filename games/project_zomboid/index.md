@@ -20,3 +20,7 @@ Use the guides below to configure and customize your Project Zomboid server on A
 2. Configure core server settings in your `.ini`
 3. Add mods using the modding guide
 4. Restart and verify workshop downloads in console output
+
+---
+
+Don't have a Project Zomboid server yet? [Order one here](https://apexnode.host/games/project-zomboid-server-hosting).

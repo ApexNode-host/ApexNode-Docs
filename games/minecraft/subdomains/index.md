@@ -33,3 +33,7 @@ Each server currently supports **one subdomain**.
 1. Click **Update** next to the subdomain you want to change.
 2. Select the new allocation you want it to point to.
 3. Click **Update Subdomain** to save changes.
+
+---
+
+Don't have a Minecraft server yet? [Order one here](https://apexnode.host/games/minecraft-java-server-hosting).

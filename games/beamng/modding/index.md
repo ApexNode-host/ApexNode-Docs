@@ -94,3 +94,7 @@ If problems continue, remove the last installed mod and restart again to confirm
 - Keep a list of installed mods and versions
 - Test after each major mod change
 - Remove old or duplicate mods to avoid conflicts
+
+---
+
+Don't have a BeamNG server yet? [Order one here](https://apexnode.host/games/beamng-server-hosting).

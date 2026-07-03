@@ -15,3 +15,7 @@ Use the guide below for Vintage Story server customization.
 More Vintage Story setup documentation is coming soon.
 
 If you need help now, reach out in our [Discord](https://apexnode.host/discord).
+
+---
+
+Don't have a Vintage Story server yet? [Order one here](https://apexnode.host/games/vintage-story-server-hosting).

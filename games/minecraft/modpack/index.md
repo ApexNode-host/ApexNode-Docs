@@ -71,3 +71,7 @@ Modpack server archives are often larger than 1 GB. The web panel **Files** tab 
 7. If it crashes, check logs for client-only mods and remove them
 
 For help with crash triage, join support via [Discord](https://apexnode.host/discord).
+
+---
+
+Don't have a Minecraft server yet? [Order one here](https://apexnode.host/games/minecraft-java-server-hosting).

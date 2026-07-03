@@ -49,3 +49,7 @@ If your server fails to authenticate or does not appear online:
 2. Confirm the key was added to the correct server in the panel
 3. Save and fully restart the server after changing startup values
 4. Generate a new AuthKey in Keymaster if the old one appears invalid
+
+---
+
+Don't have a BeamNG server yet? [Order one here](https://apexnode.host/games/beamng-server-hosting).

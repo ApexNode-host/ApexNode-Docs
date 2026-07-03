@@ -10,3 +10,7 @@ parent: Terraria Server Guides
 Terraria modding documentation is being prepared and will be published here soon.
 
 If you need immediate assistance with tModLoader or manual mod setup, reach out in our [Discord](https://apexnode.host/discord).
+
+---
+
+Don't have a Terraria server yet? [Order one here](https://apexnode.host/games/terraria-server-hosting).

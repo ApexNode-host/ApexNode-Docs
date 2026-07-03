@@ -61,3 +61,7 @@ If you notice consistent lag, check:
 3. Recent mod/plugin installs before performance drops
 
 Address one change at a time, then retest to confirm impact.
+
+---
+
+Don't have a Minecraft server yet? [Order one here](https://apexnode.host/games/minecraft-java-server-hosting).

@@ -56,3 +56,7 @@ If a plugin does not load, check:
 3. Required dependencies are installed
 4. Server restarted after upload
 5. Startup logs for specific plugin errors
+
+---
+
+Don't have a Minecraft server yet? [Order one here](https://apexnode.host/games/minecraft-java-server-hosting).

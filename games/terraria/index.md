@@ -15,3 +15,7 @@ Use the guide below for Terraria server help on ApexNode.
 More Terraria setup documentation is coming soon.
 
 If you need help now, reach out in our [Discord](https://apexnode.host/discord).
+
+---
+
+Don't have a Terraria server yet? [Order one here](https://apexnode.host/games/terraria-server-hosting).

@@ -56,3 +56,7 @@ If a mod fails to load, check the following:
 3. Required dependency mods are installed
 4. The server was fully restarted after upload
 5. Error details in logs reference a missing dependency or wrong version
+
+---
+
+Don't have a Minecraft server yet? [Order one here](https://apexnode.host/games/minecraft-java-server-hosting).

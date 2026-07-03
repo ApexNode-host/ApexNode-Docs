@@ -28,3 +28,7 @@ If this is your first Minecraft server, use this order:
    - Modded: follow the modding/modpack guides
    - Plugin-based: follow the plugins guide
 4. Set up your subdomain for easier sharing
+
+---
+
+Don't have a Minecraft server yet? [Order one here](https://apexnode.host/games/minecraft-java-server-hosting).
