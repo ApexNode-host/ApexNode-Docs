@@ -19,10 +19,10 @@ We recommend trusted modpack sources such as [Modrinth](https://modrinth.com/mod
 
 ## Before you install a modpack
 
-Modpacks require a **modded** Minecraft server - **Forge**, **NeoForge**, or **Fabric**. If your server is still on **Vanilla** Minecraft (or another non-modded version), the **Modpacks** option will not show up under the **More** dropdown.
+Modpacks require a **modded** Minecraft server - **Forge**, **NeoForge**, or **Fabric**. If your server is still on **Vanilla** Minecraft (or another non-modded version), the **Modpacks** button will not show up in the server menu.
 
 {: .warning}
-Don't see **Modpacks** under **More**? Your server is probably still on Vanilla. Change it to Forge, NeoForge, or Fabric first.
+Don't see **Modpacks** in the server menu? Your server is probably still on Vanilla. Change it to Forge, NeoForge, or Fabric first.
 
 ### Change your server to a modded version
 
@@ -52,14 +52,13 @@ The built-in installer is the fastest and most reliable method for most users. M
 1. Log in to the ApexNode panel: [https://panel.apexnode.host](https://panel.apexnode.host)
 2. Select your Minecraft server
 3. Confirm your server is on **Forge**, **NeoForge**, or **Fabric** (not Vanilla)
-4. Open **More**
-5. Click **Modpacks**
-6. Choose a modpack provider
-7. Search for your modpack
-8. Click the install icon next to the modpack
-9. Select the version you want
-10. Optional: choose **Delete Server Files** only if you want a clean install
-11. Click **Install Modpack** and wait for completion
+4. Click **Modpacks** in the server menu
+5. Choose a modpack provider
+6. Search for your modpack
+7. Click the install icon next to the modpack
+8. Select the version you want
+9. Optional: choose **Delete Server Files** only if you want a clean install
+10. Click **Install Modpack** and wait for completion
 
 {: .warning}
 The **Delete Server Files** option is irreversible.
@@ -69,7 +68,7 @@ The **Delete Server Files** option is irreversible.
 ## Update an Existing Modpack
 
 1. Make sure your server is still on the correct mod loader (Forge, NeoForge, or Fabric)
-2. Open **More** -> **Modpacks** in the panel
+2. Click **Modpacks** in the server menu
 3. Select the same provider your server modpack uses
 4. Find your current modpack
 5. Click install and choose the new version

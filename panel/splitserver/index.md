@@ -14,7 +14,7 @@ You can split the active game server into multiple game servers that we offer qu
 
 ### Step 2. Select the game server you'd like to split
 
-### Step 3. Click the "More" button in the menu and click "Splitter"
+### Step 3. Click "Splitter" in the server menu
 Now you should see the total stats and resources reserved for your main game server.
 
 ### Step 4. Click the "+" button to add a new split game server

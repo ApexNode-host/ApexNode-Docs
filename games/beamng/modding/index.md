@@ -35,11 +35,10 @@ For BeamMP servers, ApexNode includes a built-in mod manager so you can install 
 
 1. Log in to the ApexNode panel: [https://panel.apexnode.host](https://panel.apexnode.host)
 2. Select your BeamNG server
-3. Open the **More** tab in your server menu
-4. Click **Mods**
-5. Browse or search for the mod you want
-6. Click install to add it to your server
-7. Restart the server after installation
+3. Click **Mods** in the server menu
+4. Browse or search for the mod you want
+5. Click install to add it to your server
+6. Restart the server after installation
 
 At the bottom of the mod manager, you can also view installed mods and remove ones you no longer want.
 
