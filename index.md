@@ -20,7 +20,7 @@ Welcome to the official ApexNode Documentation-your go-to resource for everythin
     
 -   [Game Server Guides](games) – Step-by-step tutorials for configuring and optimizing servers for Minecraft, Project Zomboid, BeamNG, Terraria, Palworld, Vintage Story, and more.
     
--   [Billing & Account Management](billing) – Understand how our [Billing Portal] works, manage subscriptions, learn more about addons, and troubleshoot payment issues.
+-   [Billing & Account Management](billing) – Understand how our [Billing Portal] works, manage subscriptions, [community bill contributions](billing/contributions), learn more about addons, and troubleshoot payment issues.
     
 -   [Troubleshooting & FAQs](faq) – Find quick solutions to common problems and server errors.
 
