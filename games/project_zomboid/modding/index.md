@@ -7,19 +7,23 @@ parent: Project Zomboid Server Guides
 
 # Project Zomboid Server Modding Guide
 
-This guide covers the two most common ways to install mods for a Project Zomboid multiplayer server using Steam Workshop content.
+This guide covers installing Steam Workshop mods on a Project Zomboid multiplayer server.
+
+{: .success}
+**Easiest option:** use the panel **Workshop** page to browse, install, and manage mods without editing `.ini` files. See the [Steam Workshop panel guide](../../panel/steam-workshop/).
 
 {: .warning}
-This guide only covers Steam Workshop mods. Manual mod installations are not supported.
+This guide only covers Steam Workshop mods. Manual mod installations (non-Workshop files) are not supported.
 
 ---
 
 ## Choose Your Installation Method
 
-1. **Recommended method:** configure mods locally, then copy generated values to the server
-2. **Quick method:** manually paste Workshop IDs and Mod IDs directly into the server `.ini`
+1. **Panel Workshop (recommended):** browse and install from the game panel - [Steam Workshop guide](../../panel/steam-workshop/)
+2. **Local config sync:** configure mods locally, then copy generated values to the server
+3. **Quick method:** manually paste Workshop IDs and Mod IDs directly into the server `.ini`
 
-The recommended method is more reliable because it makes dependencies easier to include correctly.
+The panel Workshop method handles dependencies when possible and updates load order for you.
 
 ---
 

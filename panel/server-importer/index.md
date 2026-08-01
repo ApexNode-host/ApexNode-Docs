@@ -1,10 +1,10 @@
 ---
-
-## title: Server Importer
+title: Server Importer
 description: How to migrate an existing game server from another host to ApexNode using the built-in Server Importer.
 layout: default
 parent: Game Panel
 nav_order: 4
+---
 
 # How to import your server from another host
 
@@ -28,7 +28,7 @@ You'll need:
 Most hosts list these details in their control panel, often under a Files, SFTP, or Settings section. If you're not sure where to find them, check your old host's docs or support.
 
 {: .warning}
-Make sure your ApexNode server is set to the **same game** (or matching mod loader) as the server you're importing. For example, if you're moving a Forge Minecraft server, change your ApexNode server to Forge first using our [Change Game guide](changegame).
+Make sure your ApexNode server is set to the **same game** (or matching mod loader) as the server you're importing. For example, if you're moving a Forge Minecraft server, change your ApexNode server to Forge first using our [Change Game guide](../changegame/).
 
 ---
 
@@ -41,6 +41,8 @@ On your previous host, fully stop the game server you're migrating. Leave it off
 ### Step 3. Select the ApexNode server you want to import into
 
 ### Step 4. Click "Server Importer" in the server menu
+
+If you don't see **Server Importer**, you may be missing permission for that feature. Ask the server owner to grant it, or [open a support ticket](https://dash.apexnode.host/tickets/create).
 
 ### Step 5. Fill in your old host's connection details
 
@@ -60,21 +62,21 @@ Double-check everything before continuing. A typo in the host, port, credentials
 
 ### Step 6. Choose whether to wipe the current server files
 
-You'll see a toggle to **delete / wipe files** on your ApexNode server before the import starts.
+You'll see a **Delete Files** toggle for wiping files on your ApexNode server before the import starts.
 
-
-| Option            | What happens                                                                                                                   |
-| ----------------- | ------------------------------------------------------------------------------------------------------------------------------ |
-| **Wipe enabled**  | Your ApexNode server files are cleared first, then the imported files are transferred in. Best for a clean migration.          |
-| **Wipe disabled** | Existing files stay. Imported files will **overwrite** matching files. Extra files already on your ApexNode server may remain. |
-
+| Option | What happens |
+| --- | --- |
+| **Delete Files enabled** | Your ApexNode server is stopped if needed, current files are cleared, then the imported files are transferred in. Best for a clean migration. |
+| **Delete Files disabled** | Existing files stay. Imported files will **overwrite** matching paths. Extra files already on your ApexNode server may remain. |
 
 {: .warning}
-Wiping your ApexNode server files is irreversible. Only enable it if you're sure you don't need anything currently on that server.
+Wiping your ApexNode server files is irreversible. Only enable it if you're sure you don't need anything currently on that server. When wipe is enabled, you'll be asked to confirm before the import starts.
 
 ### Step 7. Start the import and wait for it to finish
 
-Once everything looks right, start the import and wait for it to complete. Transfer time depends on how large your server is and your old host's connection speed.
+Click **Import Server**. The page shows live status, progress, and estimated time remaining.
+
+Transfers run in a shared queue (a few imports at a time). If someone else is importing at the same moment, you may see a short queue wait before yours starts.
 
 When it's done, start your ApexNode server and confirm everything looks correct - worlds, mods, plugins, configs, and so on.
 
@@ -82,6 +84,7 @@ When it's done, start your ApexNode server and confirm everything looks correct 
 
 ## A few things to keep in mind
 
+- The import will fail if the remote files won't fit within your ApexNode server's disk limit.
+- After you submit, the password is cleared from the form for safety.
 - If the import fails to connect, re-check the server type, host, port, username, password, and base directory from your old host.
 - Need help? Reach out on [Discord](https://apexnode.host/discord) or submit a [support ticket](https://dash.apexnode.host/tickets/create).
-
