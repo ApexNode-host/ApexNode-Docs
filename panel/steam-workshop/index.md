@@ -16,9 +16,9 @@ This feature is available on supported game servers when **Workshop** shows up i
 
 | Game | Game modding guide |
 |:-----|:-------------------|
-| **Project Zomboid** | [Project Zomboid modding](../../games/project_zomboid/modding/) |
-| **Terraria** | [Terraria modding](../../games/terraria/modding/) |
-| **Necesse** | [Necesse modding](../../games/necesse/modding/) |
+| **Project Zomboid** | [Project Zomboid modding](/games/project_zomboid/modding/) |
+| **Terraria** | [Terraria modding](/games/terraria/modding/) |
+| **Necesse** | [Necesse modding](/games/necesse/modding/) |
 
 {: .note}
 If you don't see **Workshop** in the menu, make sure your server is on one of the supported games above.

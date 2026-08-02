@@ -10,7 +10,7 @@ parent: Necesse Server Guides
 This guide covers installing Steam Workshop mods on your Necesse server.
 
 {: .success}
-**Easiest option:** use the panel **Workshop** page to browse, install, and manage mods. See the [Steam Workshop panel guide](../../panel/steam-workshop/).
+**Easiest option:** use the panel **Workshop** page to browse, install, and manage mods. See the [Steam Workshop panel guide](/panel/steam-workshop/).
 
 ---
 
@@ -23,7 +23,7 @@ This guide covers installing Steam Workshop mods on your Necesse server.
 5. Use **Browse** or **Collections** to find and install mods
 6. Restart the server so Workshop content downloads and applies
 
-For Browse, Collections, Manage, and permissions details, follow the full [Steam Workshop guide](../../panel/steam-workshop/).
+For Browse, Collections, Manage, and permissions details, follow the full [Steam Workshop guide](/panel/steam-workshop/).
 
 ---
 
