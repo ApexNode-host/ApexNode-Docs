@@ -1,36 +1,44 @@
 ---
 title: Steam Workshop
-description: How to browse, install, and manage Project Zomboid Steam Workshop mods from the ApexNode game panel.
+description: How to browse, install, and manage Steam Workshop mods from the ApexNode game panel for supported games.
 layout: default
 parent: Game Panel
 nav_order: 5
 ---
 
-# How to use Steam Workshop on your Project Zomboid server
+# How to use Steam Workshop in the game panel
 
-The **Workshop** page in the game panel lets you find Project Zomboid Steam Workshop mods and collections, install them with dependencies, and manage load order - without editing `.ini` files by hand.
+The **Workshop** page lets you find Steam Workshop mods and collections, install them with dependencies when possible, and manage what's installed - without digging through config files by hand.
 
-This feature is available on **Project Zomboid** servers when the Workshop page shows up in the server menu.
+This feature is available on supported game servers when **Workshop** shows up in the server menu.
+
+### Supported games
+
+| Game | Game modding guide |
+|:-----|:-------------------|
+| **Project Zomboid** | [Project Zomboid modding](../../games/project_zomboid/modding/) |
+| **Terraria** | [Terraria modding](../../games/terraria/modding/) |
+| **Necesse** | [Necesse modding](../../games/necesse/modding/) |
 
 {: .note}
-Prefer the older manual `.ini` method? See our [Project Zomboid modding guide](../../games/project_zomboid/modding/).
+If you don't see **Workshop** in the menu, make sure your server is on one of the supported games above.
 
 ---
 
 ## Before you start
 
-1. You need a **Project Zomboid** server on ApexNode
+1. You need a supported game server on ApexNode
 2. Start the server at least once so it can generate its config files
 3. You'll need file access permissions to open Workshop and to install or remove mods
 
 {: .warning}
-Workshop changes are written to your server config (`Mods=`, `WorkshopItems=`, and map settings when needed). Always **restart the server** after installing, removing, or reordering mods so the content downloads and applies.
+Workshop changes update your server's mod configuration. Always **restart the server** after installing, removing, or reordering mods so the content downloads and applies.
 
 ---
 
 ### Step 1. Login to our [game panel](https://panel.apexnode.host)
 
-### Step 2. Select your Project Zomboid server
+### Step 2. Select your game server
 
 ### Step 3. Click "Workshop" in the server menu
 
@@ -40,11 +48,11 @@ You'll see three tabs: **Browse**, **Collections**, and **Manage**.
 
 ## Browse
 
-Use **Browse** to search the Project Zomboid Steam Workshop from the panel.
+Use **Browse** to search the Steam Workshop for your game from the panel.
 
 1. Search by name, or leave the search empty to browse
 2. Sort by Most Popular, Newest, Trending, Recently Updated, or Relevance
-3. Optionally filter by Workshop tags (for example Build 41 / Build 42, Map, Vehicles, Multiplayer)
+3. Optionally filter by Workshop tags when they're available for your game
 4. Click install on the mod you want
 
 When a Workshop item includes multiple Mod ID options, you'll be asked to pick the correct variant.
@@ -78,10 +86,10 @@ Use **Manage** to review and edit what's already installed.
 
 From this tab you can:
 
-- See installed Workshop items, Mod IDs, and maps
-- Reorder mods and maps (load order)
+- See installed Workshop items and related IDs
+- Reorder mods when load order matters for your game
 - Remove individual items, bulk-remove selected items, or clear everything
-- Manually add a Workshop ID (and Mod ID / map folder when needed)
+- Manually add a Workshop ID (and extra fields when the game needs them)
 
 {: .note}
 You need the **file update** permission to change mods on the Manage tab. If you can browse but can't install or edit, ask the server owner for that permission.
@@ -98,24 +106,11 @@ After any install, remove, or reorder:
 
 ---
 
-## Optional: Disable Lua checksum
-
-Some players can't join modded servers because of Lua checksum mismatches.
-
-In your server `.ini` (under `.cache/Server`), set:
-
-```
-DoLuaChecksum=false
-```
-
-Save the file and restart the server.
-
----
-
 ## A few things to keep in mind
 
-- Workshop is for **Project Zomboid** only right now.
+- Workshop only appears for **supported games** (Project Zomboid, Terraria, and Necesse).
 - If the page says it can't find server settings, start the server once so the config is generated, then try again.
-- Match Build 41 / Build 42 mods to the build your server is running.
-- Mods that show as missing or fail to load usually mean a bad Mod ID, missing dependency, or a needed restart.
+- Match mod versions to the game version your server is running.
+- Mods that show as missing or fail to load usually mean a bad ID, missing dependency, or a needed restart.
+- For game-specific tips (like Project Zomboid Lua checksum), check that game's modding guide linked above.
 - Need help? Reach out on [Discord](https://apexnode.host/discord) or submit a [support ticket](https://dash.apexnode.host/tickets/create).

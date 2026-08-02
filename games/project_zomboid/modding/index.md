@@ -10,7 +10,7 @@ parent: Project Zomboid Server Guides
 This guide covers installing Steam Workshop mods on a Project Zomboid multiplayer server.
 
 {: .success}
-**Easiest option:** use the panel **Workshop** page to browse, install, and manage mods without editing `.ini` files. See the [Steam Workshop panel guide](../../panel/steam-workshop/).
+**Easiest option:** use the panel **Workshop** page to browse, install, and manage mods without editing `.ini` files. See the general [Steam Workshop panel guide](../../panel/steam-workshop/) (works for Project Zomboid, Terraria, and Necesse).
 
 {: .warning}
 This guide only covers Steam Workshop mods. Manual mod installations (non-Workshop files) are not supported.
@@ -161,6 +161,7 @@ During startup, you should see **Steam Workshop mods downloading** in the server
 2. If a mod shows `[Not Found]`, verify Workshop ID and Mod ID
 3. Confirm dependencies are installed for every major mod
 4. Check separators in `Mods=` and `WorkshopItems=` (use `;`)
+5. Match Build 41 / Build 42 mods to the build your server is running
 
 ---
 

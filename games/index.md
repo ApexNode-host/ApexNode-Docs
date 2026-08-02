@@ -8,7 +8,7 @@ has_children: true
 
 # Game Server Guides
 
-Find step-by-step guides on how to configure and optimize servers for Minecraft, Project Zomboid, BeamNG (BeamMP), Terraria, Palworld, Vintage Story, and more. Additionally you'll find guides on how to install mods and plugins for various supported games.
+Find step-by-step guides on how to configure and optimize servers for Minecraft, Project Zomboid, BeamNG (BeamMP), Terraria, Necesse, Palworld, Vintage Story, and more. Additionally you'll find guides on how to install mods and plugins for various supported games.
 
 ### Minecraft Guides
 
@@ -36,6 +36,11 @@ Find step-by-step guides on how to configure and optimize servers for Minecraft,
 
 - [Terraria Server Setup](terraria)
 - [Terraria Server Modding](terraria/modding)
+
+### Necesse Guides
+
+- [Necesse Server Setup](necesse)
+- [Necesse Server Modding](necesse/modding)
 
 ### Palworld Guides
 

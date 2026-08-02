@@ -8,8 +8,9 @@ parent: Game Server Guides
 
 # Terraria Server Guides
 
-Use the guide below for Terraria server help on ApexNode.
+Use the guides below for Terraria server help on ApexNode.
 
+- [Steam Workshop (panel)](../../panel/steam-workshop/) - browse and install Workshop mods from the game panel
 - [Terraria Server Modding](modding)
 
 More Terraria setup documentation is coming soon.

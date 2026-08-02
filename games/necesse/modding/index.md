@@ -1,13 +1,13 @@
 ---
-title: Terraria Server Modding
-description: How to install Steam Workshop mods on your ApexNode Terraria server.
+title: Necesse Server Modding
+description: How to install Steam Workshop mods on your ApexNode Necesse server.
 layout: default
-parent: Terraria Server Guides
+parent: Necesse Server Guides
 ---
 
-# Terraria Server Modding Guide
+# Necesse Server Modding Guide
 
-This guide covers installing Steam Workshop mods on your Terraria server.
+This guide covers installing Steam Workshop mods on your Necesse server.
 
 {: .success}
 **Easiest option:** use the panel **Workshop** page to browse, install, and manage mods. See the [Steam Workshop panel guide](../../panel/steam-workshop/).
@@ -17,7 +17,7 @@ This guide covers installing Steam Workshop mods on your Terraria server.
 ## Install mods with the panel Workshop (recommended)
 
 1. Log in to the [game panel](https://panel.apexnode.host)
-2. Select your Terraria server
+2. Select your Necesse server
 3. Start the server at least once if you haven't already (so config files generate)
 4. Click **Workshop** in the server menu
 5. Use **Browse** or **Collections** to find and install mods
@@ -34,7 +34,7 @@ For Browse, Collections, Manage, and permissions details, follow the full [Steam
 3. Join the server and confirm the mods are active
 
 {: .warning}
-Only install mods that match your Terraria server version. Mixing incompatible mods can prevent the server from starting or cause join issues.
+Only install mods that match your Necesse server version. Incompatible mods can cause startup or join issues.
 
 ---
 
@@ -43,7 +43,7 @@ Only install mods that match your Terraria server version. Mixing incompatible m
 If a mod isn't working, check:
 
 1. The server was fully restarted after install
-2. The mod supports your Terraria version
+2. The mod supports your Necesse version
 3. Required dependencies were installed (the panel handles these when possible)
 4. Console/startup logs for Workshop or mod errors
 
@@ -53,6 +53,6 @@ Need help? Reach out in our [Discord](https://apexnode.host/discord) or submit a
 
 ## Ready to play?
 
-Don't have a Terraria server yet?
+Don't have a Necesse server yet?
 
-[![Order Now](/apexnode_order_now.png)](https://apexnode.host/games/terraria-server-hosting)
+[![Order Now](/apexnode_order_now.png)](https://apexnode.host/games/necesse-server-hosting)

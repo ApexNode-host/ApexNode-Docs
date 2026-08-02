@@ -16,4 +16,4 @@ Find step-by-step guides for managing your game server through the ApexNode game
 - [Split Server](splitserver)
 - [SFTP File Access](sftp)
 - [Server Importer](server-importer)
-- [Steam Workshop](steam-workshop) (Project Zomboid)
+- [Steam Workshop](steam-workshop)

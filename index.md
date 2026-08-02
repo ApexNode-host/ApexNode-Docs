@@ -18,7 +18,7 @@ Welcome to the official ApexNode Documentation-your go-to resource for everythin
 
 -   [Game Panel Guides](panel) - Learn more about our game panel, how to [change games](panel/changegame), [split servers](panel/splitserver), [transfer files via SFTP](panel/sftp), [import a server from another host](panel/server-importer), and more!
     
--   [Game Server Guides](games) – Step-by-step tutorials for configuring and optimizing servers for Minecraft, Project Zomboid, BeamNG, Terraria, Palworld, Vintage Story, and more.
+-   [Game Server Guides](games) – Step-by-step tutorials for configuring and optimizing servers for Minecraft, Project Zomboid, BeamNG, Terraria, Necesse, Palworld, Vintage Story, and more.
     
 -   [Billing & Account Management](billing) – Understand how our [Billing Portal] works, manage subscriptions, [community bill contributions](billing/contributions), learn more about addons, and troubleshoot payment issues.
     

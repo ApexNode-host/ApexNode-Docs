@@ -10,8 +10,8 @@ parent: Game Server Guides
 
 Use the guides below to configure and customize your Project Zomboid server on ApexNode.
 
-- [Steam Workshop (panel)](../../panel/steam-workshop/) - browse and install mods from the game panel
-- [Project Zomboid Server Modding](modding) - manual / local config methods
+- [Steam Workshop (panel)](../../panel/steam-workshop/) - browse and install Workshop mods from the game panel
+- [Project Zomboid Server Modding](modding) - Workshop overview plus manual / local config methods
 
 ---
 
