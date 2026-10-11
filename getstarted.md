@@ -9,6 +9,9 @@ nav_order: 3
 
 *This will be an extensive guide on how to get started with using ApexNode.host*
 
+{: .note}
+Already hosting elsewhere? Follow [Migrate to ApexNode](migrate) for a Minecraft-first switch path, including free migration help.
+
 ## Step 1. Choosing the game
 
 Like many hosts, we have a list of games to choose from.

@@ -10,6 +10,8 @@ nav_order: 4
 
 Moving to ApexNode from another host? Our built-in **Server Importer** lets you pull your existing server files over quickly, without manually downloading and re-uploading everything yourself.
 
+For the full switch path (backup → order → transfer → join check), including free assisted migration, start with [Migrate to ApexNode](/migrate).
+
 Order a server with us first, then use Server Importer to connect to your old host and transfer your files over. Simply follow our steps below.
 
 ---
