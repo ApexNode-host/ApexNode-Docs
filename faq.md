@@ -32,7 +32,7 @@ See [SFTP File Access](panel/sftp).
 
 ### How do I migrate from another host?
 
-See [Server Importer](panel/server-importer).
+See [Migrate to ApexNode](migrate) for the full path (backup → order → transfer → join check), including free migration help. For the panel import tool specifically, see [Server Importer](panel/server-importer).
 
 ### Where can I manage billing and addons?
 

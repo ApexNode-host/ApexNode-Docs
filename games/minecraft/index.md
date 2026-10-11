@@ -18,6 +18,9 @@ Use the guides below to set up, optimize, and customize your Minecraft server on
 
 ---
 
+{: .note}
+Moving an existing Minecraft server from another host? See [Migrate to ApexNode](/migrate) - backup, order, transfer, and join check, plus free migration help.
+
 ## Quick Start Path
 
 If this is your first Minecraft server, use this order:
