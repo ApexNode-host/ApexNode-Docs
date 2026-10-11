@@ -16,7 +16,7 @@ At [ApexNode](https://apexnode.host), we provide high-performance game server ho
 ## Support
 We offer direct support through our [Discord Server](https://apexnode.host/discord), either through creating a ticket in the **#create-ticket** channel, or for help regarding a specific game use our **#community-support** Forum section.
 
-If you don't have discord, or don't want to join ours, you can reach out to our support team by filling out this [Contact Form](https://dash.apexnode.host/tickets/create) and we will respond within 72 hours.
+If you don't have discord, or don't want to join ours, you can reach out to our support team by filling out this [Contact Form](https://dash.apexnode.host/tickets/create) and we will respond within 24-48 hours.
 
 ## Our Hardware
 

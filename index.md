@@ -30,11 +30,12 @@ At [ApexNode](https://apexnode.host), we provide high-performance game server ho
 
 ### Need Help?
 
-If you ever run into issues, feel free to check our guides or reach out to our support team via our [Official Discord] and to chat with other users and get real-time assistance. Otherwise you can reach out to our support team by filling out this [Contact Form](https://dash.apexnode.host/tickets/create) and we will respond within 24 hours.
+If you ever run into issues, feel free to check our guides or reach out to our support team via our [Official Discord] and to chat with other users and get real-time assistance. Otherwise you can reach out to our support team by filling out this [Contact Form](https://dash.apexnode.host/tickets/create) and we will respond within 24-48 hours.
 
 ----
 
 [Website]: https://apexnode.host
 [Official Discord]: https://apexnode.host/discord
+[Billing Portal]: https://dash.apexnode.host
 [Billing Dashboard]: https://dash.apexnode.host
 [Game Panel]: https://panel.apexnode.host
