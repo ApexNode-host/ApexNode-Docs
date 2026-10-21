@@ -1,19 +1,11 @@
 ---
-title: Game Panel
-description: Guides for the ApexNode game panel - change games, split servers, SFTP, server importing, Steam Workshop, and more.
-layout: default
-nav_order: 4
-has_children: true
+title: Redirect
+layout: redirect
+redirect_to: https://apexnode.host/guides/panel
+nav_exclude: true
+sitemap: false
 ---
 
-# Game Panel Guides
+# Moved
 
-Find step-by-step guides for managing your game server through the ApexNode game panel.
-
-### Panel Guides
-
-- [Change Game](changegame)
-- [Split Server](splitserver)
-- [SFTP File Access](sftp)
-- [Server Importer](server-importer)
-- [Steam Workshop](steam-workshop)
+This guide now lives at [https://apexnode.host/guides/panel](https://apexnode.host/guides/panel).

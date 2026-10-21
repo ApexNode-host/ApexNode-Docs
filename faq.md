@@ -1,51 +1,11 @@
 ---
-title: Troubleshooting & FAQs
-description: Quick answers to common ApexNode questions, with links to full guides and support.
-layout: default
-nav_order: 7
+title: Redirect
+layout: redirect
+redirect_to: https://apexnode.host/guides/faq
+nav_exclude: true
+sitemap: false
 ---
 
-# Troubleshooting & FAQs
+# Moved
 
-{: .note}
-This FAQ is a starting point. More common questions will be added over time. For detailed walkthroughs, use the linked guides below.
-
-## Getting help
-
-1. Check the relevant guide: [Getting Started](getstarted), [Game Panel](panel), [Dedicated Servers](dedicated), [Game Servers](games), or [Billing](billing).
-2. Ask in our [Official Discord] for community help.
-3. Open a support ticket via the [Contact Form](https://dash.apexnode.host/tickets/create). We aim to respond within 24-48 hours.
-
-## Common questions
-
-### Where do I manage my servers?
-
-**Game hosting:** use the [Game Panel](https://panel.apexnode.host) for console, files, and server settings. Use the [Billing Portal] for subscriptions, invoices, and service changes.
-
-**Dedicated (bare metal):** order and bill in the [Billing Portal], then manage the machine from the [Cloud portal](https://cloud.apexnode.host) after the ready email. See [Dedicated Servers](dedicated).
-
-### How do I order a dedicated server?
-
-See [Ordering a dedicated server](dedicated/ordering). Marketplace stock is usually ready in about 24 hours; configurable builds may take up to 72 hours.
-
-### How do I change the game on my server?
-
-See [Change Game](panel/changegame).
-
-### How do I upload or transfer files?
-
-See [SFTP File Access](panel/sftp).
-
-### How do I migrate from another host?
-
-See [Migrate to ApexNode](migrate) for the full path (backup → order → transfer → join check), including free migration help. For the panel import tool specifically, see [Server Importer](panel/server-importer).
-
-### Where can I manage billing and addons?
-
-See the [Billing Portal Guides](billing), including [community bill contributions](billing/contributions) and [server management addons](billing/server-management).
-
-----
-
-[Official Discord]: https://apexnode.host/discord
-[Billing Portal]: https://dash.apexnode.host
-[Game Panel]: https://panel.apexnode.host
+This guide now lives at [https://apexnode.host/guides/faq](https://apexnode.host/guides/faq).

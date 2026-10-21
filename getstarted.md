@@ -1,55 +1,11 @@
 ---
-title: Getting Started
-description: Learn how to create your ApexNode account, choose a game, pick a plan, and deploy your first server.
-layout: default
-nav_order: 3
+title: Redirect
+layout: redirect
+redirect_to: https://apexnode.host/guides/getstarted
+nav_exclude: true
+sitemap: false
 ---
 
-# Getting Started with ApexNode
+# Moved
 
-*This will be an extensive guide on how to get started with using ApexNode.host*
-
-{: .note}
-Already hosting elsewhere? Follow [Migrate to ApexNode](migrate) for a Minecraft-first switch path, including free migration help.
-
-## Step 1. Choosing the game
-
-Like many hosts, we have a list of games to choose from.
-
-| Game            |
-|:--------------- |
-| Minecraft       |
-| Project Zomboid |
-| PalWorld        |
-| Terraria        |
-| BeamNg (BeamMP) |
-| Satisfactory    |
-| Necesse         |
-| Vintage Story   |
-
-{: .note}
-You can change the active game server to any other game server that we offer quickly and easily from our game panel. Learn more by [clicking here](panel/changegame).
-
-From this list you may pick any game you want hosted from us.
-Additionally, we have many other games that we may host but we won't generally provide priority support for. These games are typically noted with the tag **(No Support)** next to the game name.
-
-## Step 2. Choose your plan
-
-Choosing the right budget for your budget and server size is important.
-
-While we don't put any limits on your server's player slots, some games may scale active players with RAM differently than others.
-
-Some things to remember. The plan you choose adjusts the RAM, Storage, Backup Slots, and sometimes the cores. You can upgrade your plan at any time via your [client service area].
-
-## Looking for dedicated (bare metal)?
-
-Game plans above use the [game panel](https://panel.apexnode.host). For full dedicated servers, see the [Dedicated Server Guides](dedicated) and browse [dedicated hosting](https://apexnode.host/dedicated-server-hosting) on the website.
-
-----
-
-[Official Discord]: https://apexnode.host/discord
-[Billing Dashboard]: https://dash.apexnode.host
-[Website]: https://apexnode.host
-[Getting Started]: getstarted
-[Game Panel]: https://panel.apexnode.host
-[Client Service Area]: https://dash.apexnode.host/dashboard
+This guide now lives at [https://apexnode.host/guides/getstarted](https://apexnode.host/guides/getstarted).

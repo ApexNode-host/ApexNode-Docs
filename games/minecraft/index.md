@@ -1,41 +1,11 @@
 ---
-title: Minecraft Server Guides
-description: Guides for Minecraft server setup, optimization, modding, plugins, modpacks, and subdomains on ApexNode.
-layout: default
-has_children: true
-parent: Game Server Guides
+title: Redirect
+layout: redirect
+redirect_to: https://apexnode.host/guides/games/minecraft
+nav_exclude: true
+sitemap: false
 ---
 
-# Minecraft Server Guides
+# Moved
 
-Use the guides below to set up, optimize, and customize your Minecraft server on ApexNode.
-
-- [Minecraft Server Optimization](optimization)
-- [Minecraft Server Modding](modding)
-- [Minecraft Server Plugin Installation](plugins)
-- [Minecraft Server Modpacks](modpack)
-- [Minecraft Java Subdomains Guide](subdomains)
-
----
-
-{: .note}
-Moving an existing Minecraft server from another host? See [Migrate to ApexNode](/migrate) - backup, order, transfer, and join check, plus free migration help.
-
-## Quick Start Path
-
-If this is your first Minecraft server, use this order:
-
-1. Start the server once to generate required folders
-2. Apply optimization basics from the optimization guide
-3. Choose one server type:
-   - Modded: follow the modding/modpack guides
-   - Plugin-based: follow the plugins guide
-4. Set up your subdomain for easier sharing
-
----
-
-## Ready to play?
-
-Don't have a Minecraft server yet?
-
-[![Order Now](/apexnode_order_now.png)](https://apexnode.host/games/minecraft-java-server-hosting)
+This guide now lives at [https://apexnode.host/guides/games/minecraft](https://apexnode.host/guides/games/minecraft).

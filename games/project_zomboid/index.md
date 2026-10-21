@@ -1,31 +1,11 @@
 ---
-title: Project Zomboid Server Guides
-description: Guides for setting up and configuring your Project Zomboid multiplayer server on ApexNode.
-layout: default
-has_children: true
-parent: Game Server Guides
+title: Redirect
+layout: redirect
+redirect_to: https://apexnode.host/guides/games/project_zomboid
+nav_exclude: true
+sitemap: false
 ---
 
-# Project Zomboid Server Guides
+# Moved
 
-Use the guides below to configure and customize your Project Zomboid server on ApexNode.
-
-- [Steam Workshop (panel)](/panel/steam-workshop/) - browse and install Workshop mods from the game panel
-- [Project Zomboid Server Modding](modding) - Workshop overview plus manual / local config methods
-
----
-
-## Quick Start Path
-
-1. Start your server once to generate baseline files
-2. Configure core server settings in your `.ini`
-3. Add mods with the [Workshop panel](/panel/steam-workshop/) (or the [modding guide](modding))
-4. Restart and verify workshop downloads in console output
-
----
-
-## Ready to play?
-
-Don't have a Project Zomboid server yet?
-
-[![Order Now](/apexnode_order_now.png)](https://apexnode.host/games/project-zomboid-server-hosting)
+This guide now lives at [https://apexnode.host/guides/games/project_zomboid](https://apexnode.host/guides/games/project_zomboid).

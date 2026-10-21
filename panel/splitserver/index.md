@@ -1,30 +1,11 @@
 ---
-title: Split Server
-description: How to split your ApexNode game server into multiple servers and allocate resources between them.
-layout: default
-parent: Game Panel
-nav_order: 2
+title: Redirect
+layout: redirect
+redirect_to: https://apexnode.host/guides/panel/splitserver
+nav_exclude: true
+sitemap: false
 ---
 
-# How to split your game server
+# Moved
 
-You can split the active game server into multiple game servers that we offer quickly and easily from our game panel. Simply follow our steps below.
-
-### Step 1. Login to our [game panel](https://panel.apexnode.host)
-
-### Step 2. Select the game server you'd like to split
-
-### Step 3. Click "Splitter" in the server menu
-Now you should see the total stats and resources reserved for your main game server.
-
-### Step 4. Click the "+" button to add a new split game server
-
-### Step 5. Fill in the information for the new split server
-This will take resources you enter from your main server and allocate them to the new split server.
-
-### Step 6. Click the "Split Server" button
-
-Now just wait for the new split game server to install and you're ready!
-
-From here it's up to you what to do, if you plan on hosting the same game then you're good to go. 
-If you plan on hosting a different game, then you can change the new split server to any game that we offer. You can use our guide on how to do that by [clicking here](changegame).
+This guide now lives at [https://apexnode.host/guides/panel/splitserver](https://apexnode.host/guides/panel/splitserver).

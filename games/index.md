@@ -1,52 +1,11 @@
 ---
-title: Game Server Guides
-description: Step-by-step guides for setting up, modding, and optimizing game servers on ApexNode.
-layout: default
-nav_order: 5
-has_children: true
+title: Redirect
+layout: redirect
+redirect_to: https://apexnode.host/guides/games
+nav_exclude: true
+sitemap: false
 ---
 
-# Game Server Guides
+# Moved
 
-Find step-by-step guides on how to configure and optimize servers for Minecraft, Project Zomboid, BeamNG (BeamMP), Terraria, Necesse, Palworld, Vintage Story, and more. Additionally you'll find guides on how to install mods and plugins for various supported games.
-
-### Minecraft Guides
-
-- [Minecraft Server Setup](minecraft)
-- [Minecraft Server Optimization](minecraft/optimization)
-- [Minecraft Server Modding](minecraft/modding)
-- [Minecraft Server Plugin Installation](minecraft/plugins)
-- [Minecraft Server Subdomain Manager](minecraft/subdomains)
-
-### Project Zomboid Guides
-
-- [Project Zomboid Server Setup](project_zomboid)
-- [Project Zomboid Server Modding](project_zomboid/modding)
-
-### BeamNG Guides
-
-- [BeamNG Server Setup](beamng)
-- [BeamNG Server Modding](beamng/modding)
-
-### Satisfactory Guides
-
-- [Satisfactory Server Setup](satisfactory)
-
-### Terraria Guides
-
-- [Terraria Server Setup](terraria)
-- [Terraria Server Modding](terraria/modding)
-
-### Necesse Guides
-
-- [Necesse Server Setup](necesse)
-- [Necesse Server Modding](necesse/modding)
-
-### Palworld Guides
-
-- [Palworld Server Setup](palworld)
-
-### Vintage Story Guides
-
-- [Vintage Story Server Setup](vintage_story)
-- [Vintage Story Server Modding](vintage_story/modding)
+This guide now lives at [https://apexnode.host/guides/games](https://apexnode.host/guides/games).

@@ -1,30 +1,25 @@
-# Welcome to the ApexNode Docs!
+# ApexNode Docs (legacy host)
 
-Welcome to the official ApexNode Documentation-your go-to resource for everything related to our game hosting services. Whether you're a new customer or a long-time user, these docs and guides are designed to help you navigate our platform, configure your game servers, and troubleshoot common issues with ease.
+**Canonical guides now live at [https://apexnode.host/guides](https://apexnode.host/guides).**
 
-**What You'll Find Here**
+Author and edit guides in the marketing site repo:
 
--   [Getting Started](getstarted) – Learn how to set up your account, deploy a game server, and access your [control panel](https://panel.apexnode.host).
+- Repo: `ApexNode-LLC`
+- Path: `content/guides/**/*.md`
+- Routes: `app/guides/`
 
--   [Game Panel Guides](panel) - Learn more about our game panel, how to [change games](panel/changegame), [split servers](panel/splitserver), and more!
-    
--   [Game Server Guides](games) – Step-by-step tutorials for configuring and optimizing servers for Minecraft, Project Zomboid, BeamNG, Terraria, Palworld, Vintage Story, and more.
-    
--   [Billing & Account Management](billing) – Understand how our [Billing Portal] works, manage subscriptions, and troubleshoot payment issues.
-    
--   [Troubleshooting & FAQs](faq) – Find quick solutions to common problems and server errors.
+This repository (`ApexNode-Wiki` / `docs.apexnode.host`) is kept for redirects only.
 
-## Why Choose ApexNode?
+## Enable redirects on docs.apexnode.host
 
-At [ApexNode](https://apexnode.host), we provide high-performance game server hosting powered by AMD Ryzen 9 CPUs to ensure smooth and lag-free gameplay. Our intuitive control panel, competitive pricing, and dedicated support make us a top choice for gamers and communities alike.
+After `/guides` is deployed on the main site:
 
-### Need Help?
+```bash
+node scripts/make-guides-redirects.mjs
+```
 
-If you ever run into issues, feel free to check our guides or reach out to our support team via our [Official Discord] and to chat with other users and get real-time assistance. Otherwise you can reach out to our support team by filling out this [Contact Form](https://dash.apexnode.host/tickets/create) and we will respond within 72 hours.
+Commit and push so GitHub Pages serves redirect stubs (meta refresh + canonical) from old paths to `https://apexnode.host/guides/...`.
 
-----
+For true HTTP 301s (better SEO), also add a Cloudflare / DNS page rule:
 
-[Website]: https://apexnode.host
-[Official Discord]: https://apexnode.host/discord
-[Billing Portal]: https://dash.apexnode.host/dashboard
-[Game Panel]: https://panel.apexnode.host
+`docs.apexnode.host/*` → `https://apexnode.host/guides/$1` (301)

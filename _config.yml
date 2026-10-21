@@ -8,6 +8,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
 
+# Public docs moved to https://apexnode.host/guides — this host should only redirect.
 url: https://docs.apexnode.host
 logo: apexnode_logo_full.png
 favicon: favicon.ico
