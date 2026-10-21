@@ -1,6 +1,6 @@
 ---
 title: Home
-description: Official ApexNode documentation with guides for game server setup, the game panel, billing, and more.
+description: Official ApexNode documentation with guides for game server setup, the game panel, dedicated servers, billing, and more.
 layout: home
 nav_order: 1
 ---
@@ -14,17 +14,19 @@ Welcome to the official ApexNode Documentation-your go-to resource for everythin
 
 **What You'll Find Here**
 
--   [Getting Started](getstarted) – Learn how to set up your account, deploy a game server, and access your [control panel](https://panel.apexnode.host).
+-   [Getting Started](getstarted) - Learn how to set up your account, deploy a game server, and access your [control panel](https://panel.apexnode.host).
 
--   [Migrate to ApexNode](migrate) – Switching from another host? Backup, order, transfer (or use free migration help), then join-check. Minecraft-first path with links to plans and support.
+-   [Migrate to ApexNode](migrate) - Switching from another host? Backup, order, transfer (or use free migration help), then join-check. Minecraft-first path with links to plans and support.
 
 -   [Game Panel Guides](panel) - Learn more about our game panel, how to [change games](panel/changegame), [split servers](panel/splitserver), [transfer files via SFTP](panel/sftp), [import a server from another host](panel/server-importer), and more!
-    
--   [Game Server Guides](games) – Step-by-step tutorials for configuring and optimizing servers for Minecraft, Project Zomboid, BeamNG, Terraria, Necesse, Palworld, Vintage Story, and more.
-    
--   [Billing & Account Management](billing) – Understand how our [Billing Portal] works, manage subscriptions, [community bill contributions](billing/contributions), learn more about addons, and troubleshoot payment issues.
-    
--   [Troubleshooting & FAQs](faq) – Find quick solutions to common problems and server errors.
+
+-   [Dedicated Servers](dedicated) - Order marketplace or configurable bare metal, what emails to expect, first login, control panels, and IP blocks.
+
+-   [Game Server Guides](games) - Step-by-step tutorials for configuring and optimizing servers for Minecraft, Project Zomboid, BeamNG, Terraria, Necesse, Palworld, Vintage Story, and more.
+
+-   [Billing & Account Management](billing) - Understand how our [Billing Portal] works, manage subscriptions, [community bill contributions](billing/contributions), learn more about addons, and troubleshoot payment issues.
+
+-   [Troubleshooting & FAQs](faq) - Find quick solutions to common problems and server errors.
 
 ## Why Choose ApexNode?
 

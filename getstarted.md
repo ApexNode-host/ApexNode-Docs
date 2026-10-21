@@ -41,6 +41,10 @@ While we don't put any limits on your server's player slots, some games may scal
 
 Some things to remember. The plan you choose adjusts the RAM, Storage, Backup Slots, and sometimes the cores. You can upgrade your plan at any time via your [client service area].
 
+## Looking for dedicated (bare metal)?
+
+Game plans above use the [game panel](https://panel.apexnode.host). For full dedicated servers, see the [Dedicated Server Guides](dedicated) and browse [dedicated hosting](https://apexnode.host/dedicated-server-hosting) on the website.
+
 ----
 
 [Official Discord]: https://apexnode.host/discord
